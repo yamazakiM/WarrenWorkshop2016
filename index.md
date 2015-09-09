@@ -1,5 +1,5 @@
 ---
-title: Warren Workshop Vi  2016
+title: Warren Workshop VI  2016
 layout: default
 ---
 
