@@ -1,6 +1,6 @@
 ---
 title: Warren Workshop Vi  2016
-layout: defult
+layout: default
 ---
 
 <!-- MAIN CONTENT -->
