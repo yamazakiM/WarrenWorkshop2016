@@ -9,15 +9,15 @@
     <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
     <div id="header">
         <div id="page-title">
-         <title>{{page.title}}</title>
+         <h2>Warren Workshop VI  2016</h2>
         </div>
         <div id="global-nav">
                 <ul>
-                    <li><a href="http://disqus.com/about/">HOME</a></li>
-                    <li><a href="http://blog.disqus.com/">LOCATION</a></li>
-                    <li><a href="http://docs.disqus.com/">PROGRAM</a></li>
-                    <li><a href="http://blog.disqus.com/">REGISTRATION</a></li>
-                    <li><a href="http://blog.disqus.com/">CONTACTS</a></li>
+                    <li><a href=http://yamazakim.github.io/WarrenWorkshop2016/>HOME</a></li>
+                    <li><a href=http://yamazakim.github.io/WarrenWorkshop2016/location>LOCATION</a></li>
+                    <li><a href=http://yamazakim.github.io/WarrenWorkshop2016/program>PROGRAM</a></li>
+                    <li><a href=http://yamazakim.github.io/WarrenWorkshop2016/registration>REGISTRATION</a></li>
+                    <li><a href=http://yamazakim.github.io/WarrenWorkshop2016/contacts>CONTACTS</a></li>
                 </ul>
         </div>
       </div>
