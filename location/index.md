@@ -1,5 +1,5 @@
 ---
-title: Location
+title: location
 layout: default
 ---
 
