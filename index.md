@@ -21,8 +21,8 @@ layout: default
                     <li><a href=http://yamazakim.github.io/WarrenWorkshop2016/contacts>CONTACTS</a></li>
                 </ul>
         </div>
-      </div>
-    </head>
+    </div>
+  </head>
 
   <body>
 
