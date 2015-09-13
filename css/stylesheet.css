@@ -372,7 +372,7 @@ Full-Width Styles
   float:left;
 }
 
-#page-title{
+#title{
   background-color:gray;
   height:45px;
 }
@@ -429,15 +429,4 @@ Small Device Styles
     font-size: 11px;
   }
 
-}
-
-#header_wrap{
-  width:100%;
-  background-color:gray;
-  text-align:center;
-}
-
-#global-nav ul li{
-  float:left;
-  
 }
