@@ -2,6 +2,7 @@
 title: location
 layout: default
 ---
+<div id="main-page">
 <h2>Location</h2>
 ------------------------------------
 Faculty, Graduate School and School of Engineering<br>
@@ -20,7 +21,7 @@ The Chuo Bus / Hokuto Kotsu Bus departs from New Chitose Airport to Sapporo Stat
 --------------------------------------
 <strong>Walking</strong><br>
 Approximately 7 minites walk from Sapporo Station North Exit to the main gate of Hokkaido University.
-
+</div>
 
 
 
