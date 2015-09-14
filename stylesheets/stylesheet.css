@@ -465,6 +465,23 @@ html {
     white-space: normal
     padding: 0 1px;
 }
+.topMainVis {
+    position: relative;
+    margin: 5px 0 0;
+    height: 150px;
+    background-color:#000;
+    overflow: hidden;
+    clear: both;
+}
+
+.topMainVis_inner {
+    position: relative;
+    width: 940px;
+    height: 100%;
+    margin: 0 auto;
+    background-size: 223px auto;
+    z-index: 200;
+}
 
 footer .inner ul li{
   list-style:none;
