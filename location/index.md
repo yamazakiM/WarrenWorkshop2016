@@ -2,7 +2,7 @@
 title: location
 layout: default
 ---
-<div id="main-page">
+<div id="main-content">
 <h2>Location</h2>
 ------------------------------------
 Faculty, Graduate School and School of Engineering<br>
