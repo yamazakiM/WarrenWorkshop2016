@@ -2,7 +2,6 @@
 title: location
 layout: default
 ---
-
 #Location
 ------------------------------------
 Faculty, Graduate School and School of Engineering<br>
