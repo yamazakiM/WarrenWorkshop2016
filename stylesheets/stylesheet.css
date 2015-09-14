@@ -98,7 +98,8 @@ p {
 }
 
 footer p {
-  color: #f2f2f2;
+  color: #fff;
+  text-shadow:1px 1px 1px #787878;
 }
 
 a {
@@ -365,7 +366,7 @@ Full-Width Styles
 }
 
 #footer_wrap {
-  background: #212121;
+  background: ##87d8d3;
 }
 
 html {
@@ -469,10 +470,11 @@ html {
     position: relative;
     margin: 5px 0 0;
     height: 130px;
-    background-color:#000;
+    background-color:#87d8d3;
     overflow: hidden;
     clear: both;
     margin-top:45px;
+    box-shadow:0 2px 3px 0 rgba(0, 0, 0, 0.25);
 }
 
 .topMainVis_inner {
