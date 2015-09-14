@@ -386,8 +386,79 @@ Full-Width Styles
   box-shadow: 0 2px 3px 0 rgba(0,0,0,0.25);
   overflow:visible;
   z-index:2000;
+}
 
-  
+@media (max-width: 939px) {
+    .globalNav {
+        position: absolute;
+        width: 940px;
+    }
+}
+
+.globalNav_inner {
+    position: relative;
+    width: 940px;
+    height: 45px;
+    margin: 0 auto;
+}
+
+.globalNav_ul {
+    display: table;
+    width: 76%;
+    height: 45px;
+    float: left;
+    table-layout: fixed;
+    overflow: visible;
+    margin: 0 0 0 10px;
+}
+
+.globalNavItem {
+    display: table-cell;
+    height: 45px;
+    list-style: none;
+}
+
+.globalNavItem_group {
+    position: relative;
+    height: 45px;
+}
+
+.globalNavItem_btn {
+    border-bottom: 2px solid #eee;
+    color: #787878;
+    display: block;
+    font-size: 12px;
+    font-weight: bold;
+    height: 43px;
+    overflow: hidden;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+    width: 100%;
+}
+
+.globalNavItem_btn:after {
+    content: '';
+    width: 1px;
+    height: 100%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.globalNavItem_btn:hover, .globalNavItem_btn:focus {
+    text-decoration: none;
+    color: #660098;
+    background: #fbfaf8;
+    border-color: #660098;
+}
+
+.globalNavItem_text {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 1.1;
+    text-shadow: 1px 1px 1px #fff;
+    white-space: normal
+    padding: 0 1px;
 }
 
 footer .inner ul li{
