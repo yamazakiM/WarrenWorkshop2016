@@ -368,14 +368,7 @@ Full-Width Styles
   background: #212121;
 }
 
-#global-nav ul li{
-  float:left;
-}
 
-#page-title{
-  background-color:gray;
-  height:45px;
-}
 
 /*******************************************************************************
 Small Device Styles
