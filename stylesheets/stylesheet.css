@@ -468,10 +468,11 @@ html {
 .topMainVis {
     position: relative;
     margin: 5px 0 0;
-    height: 150px;
+    height: 130px;
     background-color:#000;
     overflow: hidden;
     clear: both;
+    margin-top:45px;
 }
 
 .topMainVis_inner {
@@ -480,6 +481,7 @@ html {
     height: 100%;
     margin: 0 auto;
     background-size: 223px auto;
+    vertical-align:center;
     z-index: 200;
 }
 
