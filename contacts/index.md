@@ -8,7 +8,7 @@ layout: default
   <h3>Contact</h3>
   <hr>
   <p id="registration">For further information, please contact:</p>
-    <p><strong>Kiyoko F. Kinoshita</strong><br>
+    <p><strong>Dr. Kiyoko F. Aoki-Kinoshita</strong><br>
     Department of Science and Engineering for Substainable Innovation,<br>
     Faculty of Science and Engineering<br>
     SOKA University<br>
