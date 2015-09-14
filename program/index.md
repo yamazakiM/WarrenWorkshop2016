@@ -7,15 +7,13 @@ layout: default
   <section id="main_content" class="inner">
 <h3>Program</h3>
 <hr>
-<p><strong>6<sup>th</sup> Charles Warren Workshop 2016</p>
-<br>
+<p><strong>6<sup>th</sup> Charles Warren Workshop 2016</strong></p>
 <p>September 25 - 27, 2016<br>
 Faculty, Graduate School and School of Engineering<br>
 Hokkaido University<br>
 Kita 13, Nishi 8, Kita-ku, Sapporo, Hokkaido 060-8628, Japan</p>
-<hr>
 
-<h3> Sunday September 25, 2016</h3>
+<h3>Sunday September 25, 2016</h3>
 <hr>
 <p>09:00 – 09:30&nbsp;&nbsp;&nbsp; Registration &amp; Poster Placement</p>
 <p><strong>Welcome and Workshop Aims</strong></p>
@@ -80,6 +78,5 @@ Chair:Kiyoko F. Kinoshita</p>
 <p>16:00-16:30&nbsp;&nbsp;&nbsp;Discussion for 7th Warren Workshop in 2018</p>
 <p>16:30&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Meeting Adjournment</p>
 <br>
-
  </section>
 </div>
