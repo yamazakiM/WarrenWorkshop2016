@@ -16,3 +16,5 @@ Kita 13, Nishi 8, Kita-ku, Sapporo, Hokkaido 060-8628, Japan</p>
 
 <h3> Sunday September 25, 2016</h3>
 -------
+ </section>
+</div>
