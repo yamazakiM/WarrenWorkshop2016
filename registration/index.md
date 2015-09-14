@@ -1,5 +1,5 @@
 ---
-title: program
+title: registration
 layout: default
 ---
 <!-- MAIN CONTENT -->
