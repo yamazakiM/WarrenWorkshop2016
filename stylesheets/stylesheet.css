@@ -409,12 +409,12 @@ html {
 
 .globalNav_ul {
     display: table;
-    width: 76%;
+    width: 80%;
     height: 45px;
     float: left;
     table-layout: fixed;
     overflow: visible;
-    margin: 0 0 0 10px;
+    margin: 0 100px 0 100px;
 }
 
 .globalNavItem {
@@ -481,11 +481,15 @@ html {
     height: 100%;
     margin: 0 auto;
     background-size: 223px auto;
-    vertical-align:center;
+    text-align:center;
     z-index: 200;
 }
 
-footer .inner ul li{
+h2 #project_subtitle{
+  text-align:center;
+}
+
+footer{
   list-style:none;
   color:#fff;
 }
