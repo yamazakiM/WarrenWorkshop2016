@@ -368,7 +368,23 @@ Full-Width Styles
   background: #212121;
 }
 
+#title{
+  width:100%;
+  text-align:center;
+  vertical-align:center;
+}
 
+#global-nav ul li{
+  float:left;
+  background-color:#ccc;
+  color:#fff;
+  list-style:none;
+}
+
+footer .inner ul li{
+  list-style:none;
+  color:#fff;
+}
 
 /*******************************************************************************
 Small Device Styles
