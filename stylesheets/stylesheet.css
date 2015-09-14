@@ -374,11 +374,20 @@ Full-Width Styles
   vertical-align:center;
 }
 
-#global-nav ul li{
-  float:left;
-  background-color:#ccc;
-  color:#fff;
-  list-style:none;
+.globalNav{
+  position:fixed;
+  width:100%;
+  height:45px;
+  top:0;
+  left:0;
+  color:#787878;
+  background:#F2F1EF;
+  -webkit-box-shadow: 0 2px 3px rgba(0,0,0,0.25);
+  box-shadow: 0 2px 3px 0 rgba(0,0,0,0.25);
+  overflow:visible;
+  z-index:2000;
+
+  
 }
 
 footer .inner ul li{
