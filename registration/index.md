@@ -7,14 +7,14 @@ layout: default
   <section id="main_content" class="inner">
   <h3>Registration Dates</h3>
   <hr>
-  <h4>Registration period for Warren Workshop VI 2016<h4>
+  <p>Registration period for Warren Workshop VI 2016</p>
   <ul>
-  <li><strong>April 1, 2016 - September 10, 2016</strong></li>
+  <li>April 1, 2016 - September 10, 2016</li>
   </ul>
   <br>
-  <h4>Registration period for Abstruct<h4>
+  <p>Registration period for Abstruct</p>
   <ul>
-  <li><strong>April 1, 2016 - June 30, 2016</strong></li>
+  <li>April 1, 2016 - June 30, 2016</li>
   </ul>   
   </section>
 </div>
