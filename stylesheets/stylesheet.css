@@ -368,6 +368,11 @@ Full-Width Styles
   background: #212121;
 }
 
+html {
+  position: relative;
+  min-height: 100%;
+}
+
 #title{
   width:100%;
   text-align:center;
