@@ -55,6 +55,7 @@ body {
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
+  min-width:640px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -510,6 +511,7 @@ footer ul{
 
 #main-content{
   background-color:#fff;
+  margin-bottom:100px;
 }
 
 .ggmap {
