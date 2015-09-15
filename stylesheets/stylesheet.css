@@ -367,9 +367,8 @@ Full-Width Styles
 }
 
 #footer_wrap {
-  background: ##87d8d3;
-  background-image:linear-gradient(1080deg, #f8f8f8, #7fffd8, #87d8d3);
-  height:70px;
+  background: #f2f1ef;
+  height:55px;
   min-width:640px;
   overflow:hidden;
   position:relative;
@@ -501,15 +500,18 @@ footer{
   text-shadow:1px 3px 3px #000;
   width:640px;
   position:relative;
-  height:70px;
+  height:55px;
   bottom:0;
   text-align:center;
   padding-top:10px;
+  text-shadow:1px 0 0 #fff;
+  font-size:13px;
+  font-weight:bold;
 }
 
 footer ul{
   list-style:none;
-  color:#fff;
+  color:#787878;
 }
 
 #main-content{
