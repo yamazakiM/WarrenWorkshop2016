@@ -357,7 +357,6 @@ Full-Width Styles
 
 #main_content_wrap {
   background: #f2f2f2;
-  border-bottom: 1px solid #66cdaa;
 }
 
 #main_content {
@@ -366,7 +365,7 @@ Full-Width Styles
 
 #footer_wrap {
   background: ##87d8d3;
-  background-image:linear-gradient(180deg, #f8f8f8, #7fffd8, #87d8d3);
+  background-image:linear-gradient(1080deg, #f8f8f8, #7fffd8, #87d8d3);
 }
 
 html {
@@ -490,8 +489,7 @@ html {
 }
 
 footer{
-  position:fixed;
-  bottom:0;
+  text-shadow:1px 3px 3px #000;
 }
 
 footer ul{
