@@ -363,6 +363,7 @@ Full-Width Styles
 #main_content {
   padding-top: 40px;
   background:#f2f2f2;
+  padding-bottom:100px;
 }
 
 #footer_wrap {
@@ -371,7 +372,7 @@ Full-Width Styles
   height:70px;
   min-width:640px;
   overflow:hidden;
-  position:abusolute;
+  position:absolute;
   width:100%;
   
 }
