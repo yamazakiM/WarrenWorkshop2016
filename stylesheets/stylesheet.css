@@ -372,7 +372,7 @@ Full-Width Styles
   overflow:hidden;
   position:absolute;
   width:100%;
-  
+  bottom:0; 
 }
 
 html {
