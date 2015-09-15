@@ -357,8 +357,7 @@ Full-Width Styles
 
 #main_content_wrap {
   background: #f2f2f2;
-  border-top: 1px solid #111;
-  border-bottom: 1px solid #111;
+  border-bottom: 1px solid #66cdaa;
 }
 
 #main_content {
@@ -367,6 +366,7 @@ Full-Width Styles
 
 #footer_wrap {
   background: ##87d8d3;
+  linear-gradient(180deg, #f8f8f8, #7fffd8, #87d8d3
 }
 
 html {
@@ -453,9 +453,9 @@ html {
 
 .globalNavItem_btn:hover, .globalNavItem_btn:focus {
     text-decoration: none;
-    color: #660098;
+    color: #5f9ea0;
     background: #fbfaf8;
-    border-color: #660098;
+    border-color: #5f9ea0;
 }
 
 .globalNavItem_text {
@@ -471,6 +471,7 @@ html {
     margin: 5px 0 0;
     height: 130px;
     background-color:#87d8d3;
+    background-image:linear-gradient(180deg, #f8f8f8, #7fffd8, #87d8d3);
     overflow: hidden;
     clear: both;
     margin-top:45px;
