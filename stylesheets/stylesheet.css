@@ -365,6 +365,12 @@ Full-Width Styles
 #footer_wrap {
   background: ##87d8d3;
   background-image:linear-gradient(1080deg, #f8f8f8, #7fffd8, #87d8d3);
+  height:70px;
+  min-width:640px;
+  overflow:hidden;
+  position:abusolute;
+  width:100%;
+  
 }
 
 html {
@@ -401,7 +407,7 @@ html {
 
 .globalNav_inner {
     position: relative;
-    width: 940px;
+    width: 640px;
     height: 45px;
     margin: 0 auto;
 }
@@ -489,6 +495,9 @@ html {
 
 footer{
   text-shadow:1px 3px 3px #000;
+  width:640px;
+  position:relative;
+  height:70px;
 }
 
 footer ul{
