@@ -10,7 +10,7 @@ layout: default
 <p>Faculty, Graduate School and School of Engineering<br>
 Hokkaido University<br>
 Kita 13, Nishi 8, Kita-ku, Sapporo, Hokkaido 060-8628, Japan<br>
-<div id=ggmap><iframe src="”http://maps.google.co.jp/maps?hl=en-us&ie=UTF8&hq=&ll=43.077984, 141.340018&&z=16&iwloc=A&output=embed”" width="300" height="200" frameborder="0" style="border:0" allowfullscreen></iframe></div>
+<div id=ggmap><iframe src="”http://maps.google.co.jp/maps?hl=en-us&ie=UTF8&hq=&ll=(43.077984, 141.340018)&&z=16&iwloc=A&output=embed”" width="300" height="200" frameborder="0" style="border:0" allowfullscreen></iframe></div>
 
 <h3 id="location">1. From New Chitose Airport to Sapporo</h3> 
 <hr>
