@@ -380,6 +380,10 @@ html {
   min-height: 100%;
 }
 
+#content_outer{
+  height:100%;
+}
+
 #title{
   width:100%;
   text-align:center;
