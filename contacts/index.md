@@ -14,7 +14,7 @@ layout: default
     SOKA University<br>
     1-236, Tangi-machi, Hachioji-shi,<br>
     Tokyo, 192-8577, JAPAN</p
-    <p>Email:<img class="contact" alt="contact" src="../images/contact.png"></p>
+    <p>Email:</p><img class="contact" alt="contact" src="../images/contact.png">
     <p>Tel: +81-42-691-4116</p>
    
   </section>
