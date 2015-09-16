@@ -9,9 +9,9 @@ layout: default
     <hr>
 <p>Faculty, Graduate School and School of Engineering<br>
 Hokkaido University<br>
-Kita 13, Nishi 8, Kita-ku, Sapporo, Hokkaido 060-8628, Japan<br>
+Kita 13, Nishi 8, Kita-ku, Sapporo, Hokkaido 060-8628, Japan</p>
 <div id=ggmap><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2060.7424234830823!2d141.34175906700744!3d43.076559530617565!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDPCsDA0JzQwLjciTiAxNDHCsDIwJzI0LjEiRQ!5e0!3m2!1sen!2sjp!4v1442329400468" width="300" height="200" frameborder="0" style="border:0" allowfullscreen></iframe></div>
-
+<br>
 <h3 id="location">1. From New Chitose Airport to Sapporo</h3> 
 <hr>
 <p><strong>Train</strong><br>
@@ -24,7 +24,7 @@ The Chuo Bus / Hokuto Kotsu Bus departs from New Chitose Airport to Sapporo Stat
 <hr>
 <p><strong>Walking</strong><br>
 Approximately 7 minites walk from Sapporo Station North Exit to the main gate of Hokkaido University.<br>
-<a href="http://www.oia.hokudai.ac.jp/about/visitors-access-maps/sapporo-campus-map/">Details</a><br>
+<a href="http://www.oia.hokudai.ac.jp/about/visitors-access-maps/sapporo-campus-map/">Detailed directions to Hokkaodo University</a><br>
 <a href="http://www.oia.hokudai.ac.jp/maps/?p=sapporo">Campus Map</a></p>
 </div>
 
