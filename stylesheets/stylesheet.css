@@ -548,7 +548,7 @@ height: 100%;
 img.contact{
   display:block;
   position:absolute;
-  right:50px;
+  left:50px;
   top:273px;
 }
 
