@@ -546,8 +546,15 @@ height: 100%;
 }
 
 img.contact{
-    margin-top:3px;
-    border:1px solid #fff;
+  display:block;
+  float:left;
+  position:absolute;
+  right:1px;
+  top:10px;
+}
+
+p.tel{
+  clear:both;
 }
 
 
