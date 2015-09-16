@@ -12,7 +12,7 @@ layout: default
   <li>April 1, 2016 - September 10, 2016</li>
   </ul>
   <br>
-  <p id="registration">Registration period for Abstruct</p>
+  <p id="registration">Abstract submission period</p>
   <ul>
   <li>April 1, 2016 - June 30, 2016</li>
   </ul>   
