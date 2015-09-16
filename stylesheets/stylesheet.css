@@ -370,10 +370,12 @@ Full-Width Styles
   height:55px;
   min-width:640px;
   overflow:hidden;
-  position:relative;
+  position:absolute;
   width:100%;
   margin-top:50px;
   border-top:2px solid #ddd;
+  bottom:0;
+  left:0;
 }
 
 html {
