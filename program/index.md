@@ -9,6 +9,7 @@ layout: default
 <hr>
 <p><strong>6<sup>th</sup> Charles Warren Workshop 2016</strong></p>
 <p>September 25 - 27, 2016<br>
+Frontier Research in Applied Sciences Building<br>
 Faculty, Graduate School and School of Engineering<br>
 Hokkaido University<br>
 Kita 13, Nishi 8, Kita-ku, Sapporo, Hokkaido 060-8628, Japan</p>
