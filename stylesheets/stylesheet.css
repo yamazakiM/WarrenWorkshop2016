@@ -547,14 +547,9 @@ height: 100%;
 
 img.contact{
   display:block;
-  float:left;
   position:absolute;
-  right:1px;
-  top:10px;
-}
-
-p.tel{
-  clear:both;
+  right:50px;
+  top:273px;
 }
 
 
