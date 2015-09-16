@@ -15,7 +15,7 @@ layout: default
     1-236, Tangi-machi, Hachioji-shi,<br>
     Tokyo, 192-8577, JAPAN</p
     <p class="contact">Email:</p>
-    <img class="contact clearfix" alt="contact-email.png" src="../images/contact-email.png">
+    <img class="contact" alt="contact-email.png" src="../images/contact-email.png" border="0">
     <p class="tel">Tel: +81-42-691-4116</p>
    
   </section>
