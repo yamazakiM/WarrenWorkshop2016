@@ -467,9 +467,9 @@ html {
 
 .globalNavItem_btn:hover, .globalNavItem_btn:focus {
     text-decoration: none;
-    color: #fff;
-    background: #aab1ac;
-    border-color: #546558;
+    color: #5f9ea0;
+    background: #fbfaf8;
+    border-color: #5f9ea0;
 }
 
 .globalNavItem_text {
@@ -479,10 +479,6 @@ html {
     text-shadow: 1px 1px 1px #fff;
     white-space: normal;
     padding: 0 1px;
-}
-
-.globalNavItem_text:hover, .globalNavItem_text:focus {
-    text-shadow: none;
 }
 
 .topMainVis {
