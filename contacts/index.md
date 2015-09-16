@@ -13,8 +13,8 @@ layout: default
     Faculty of Science and Engineering<br>
     SOKA University<br>
     1-236, Tangi-machi, Hachioji-shi,<br>
-    Tokyo, 192-8577, JAPAN</p>
-    <p>Email: ![contact](../images/contact.png) </p>
+    Tokyo, 192-8577, JAPAN</p
+    <p>Email: ![contact](../images/contact.png)</p>
     <p>Tel: +81-42-691-4116</p>
    
   </section>
