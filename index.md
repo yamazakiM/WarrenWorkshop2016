@@ -16,8 +16,8 @@ layout: default
 
 <p>The goal of the 6th Warren Workshop will be to highlight the capabilities and limitations that exist in the detection, identification, and quantification of glycoconjugates. The driving force for the Warren Workshop series is the need for detailed structural analysis of glycoconjugates in the context of complex biological systems. The workshop will bring together experts in the discipline to establish workflows for tackling these huge challenges. Invited speakers will briefly summarize specific topics that will be followed by moderated discussions of the subject areas. The workshop will provide participants with cutting-edge approaches and pipelines for glycomic experiments and data management to facilitate accurate and robust analysis. Major topics will include qualitative and quantitative analysis of free glycans and glycoconjugates, data processing, and integration of resulting information with other systems biology approaches. Current and pending initiatives in the area of data standardization and data mining with regard to the discovery of structure-function relationships will be presented.</p>
 
-<p>Link to <a href="http://glycomics.ccrc.uga.edu/warren-workshop/">Warren Workshop V 2014</a><br>
+<p><small>Link to <a href="http://glycomics.ccrc.uga.edu/warren-workshop/">Warren Workshop V 2014</a><br>
 <a href="http://glycomics.ccrc.uga.edu/warren-workshop/?q=node/21">Pictures</a> from Warren Workshop IV 2012<br>
-</p>
+</small></p>
   </section>
 </div>
