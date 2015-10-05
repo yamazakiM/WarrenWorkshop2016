@@ -484,7 +484,7 @@ html {
 .topMainVis {
     position: relative;
     margin: 5px 0 0;
-    height: 130px;
+    height: 160px;
     background-color:#87d8d3;
     background-image:linear-gradient(180deg, #f8f8f8, #7fffd8, #87d8d3);
     overflow: hidden;
@@ -549,6 +549,13 @@ img.contact{
   display:block;
   top:15px;
   box-shadow:none;
+}
+
+#project_theme{
+  color:#fff;
+  font-size:22px;
+  text-shadow:1px 1px 6px #111;
+  font-weight:100;
 }
 
 
