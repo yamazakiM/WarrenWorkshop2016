@@ -8,11 +8,12 @@ layout: default
 <h3>Program</h3>
 <hr>
 <p><strong>6<sup>th</sup> Charles Warren Workshop 2016</strong></p>
+<p><strong>Theme of the Workshop:Finding meaning in the ambiguity of glycoscience</strong></p>
 <p>September 25 - 27, 2016<br>
-Frontier Research in Applied Sciences Building<br>
+<a href="http://www.oia.hokudai.ac.jp/maps/?p=sapporo">Frontier Research in Applied Sciences Building</a><br>
 Graduate School and School of Engineering<br>
 Hokkaido University<br>
-Kita 13, Nishi 8, Kita-ku, Sapporo, Hokkaido 060-8628, Japan</p>
+<a href="https://goo.gl/maps/JtP1MdrwH5U2">Kita 13, Nishi 8, Kita-ku, Sapporo, Hokkaido 060-8628, Japan</a></p>
 <br>
 
 <h3>Sunday September 25, 2016</h3>
