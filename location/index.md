@@ -26,8 +26,18 @@ The Chuo Bus / Hokuto Kotsu Bus departs from New Chitose Airport to Sapporo Stat
 <p><strong>Walking</strong><br>
 Approximately 7 minites walk from Sapporo Station North Exit to the main gate of Hokkaido University.<br>
 <a href="http://www.oia.hokudai.ac.jp/about/visitors-access-maps/sapporo-campus-map/">Detailed directions to Hokkaido University</a><br>
-<a href="http://www.oia.hokudai.ac.jp/maps/?p=sapporo">Campus Map</a></p>
+<a href="https://www.oia.hokudai.ac.jp/wp-content/uploads/2015/08/2015-%E8%8B%B1%E8%AA%9E%E7%89%88%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%91%E3%82%B9%E3%83%9E%E3%83%83%E3%83%97%E6%9C%80%E7%B5%82.pdf">Campus Guide Map</a></p>
+
+<h3 id="location">3. From main gate of Hokkaido University to Frontier Research in Applied Sciences Building</h3>
+<hr>
+<p><strong>Shuttle Bus</strong><br>
+A free campus shuttle service operates during semester from Monday to Friday (excluding public holidays.)<br> 
+The route begins on the western façade of the Administration Building, passing through the main spine of the campus extending to the Northern Campus area before coming back on the same route.<br>
+Please use <a href="http://www.oia.hokudai.ac.jp/maps/?p=sapporo">Campus Map</a> and click ‘Shuttle Bus Stops’ from the menu located on the right hand-side of the screen.<br>
+Link to the <a href="https://www.oia.hokudai.ac.jp/wp-content/uploads/2013/08/5.2013-Bus-time-tableHokkaido-University.pdf">timetable</a> for shuttle bus.</p>
+
 </div>
 
 
 
+ 
