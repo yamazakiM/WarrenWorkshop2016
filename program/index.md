@@ -8,15 +8,15 @@ layout: default
 <h3>Program</h3>
 <hr>
 <p><strong>6<sup>th</sup> Charles Warren Workshop 2016<br>
-Theme of the Workshop:Finding meaning in the ambiguity of glycoscience</strong></p>
-<p>September 25 - 27, 2016<br>
+Theme of the Workshop: Finding meaning in the ambiguity of glycoscience</strong></p>
+<p>August 24 - 26, 2016<br>
 <a href="http://www.oia.hokudai.ac.jp/maps/?p=sapporo">Frontier Research in Applied Sciences Building</a><br>
 Graduate School and School of Engineering<br>
 Hokkaido University<br>
 <a href="https://goo.gl/maps/JtP1MdrwH5U2">Kita 13, Nishi 8, Kita-ku, Sapporo, Hokkaido 060-8628, Japan</a></p>
 <br>
 
-<h3>Sunday September 25, 2016</h3>
+<h3>Wednesday August 24, 2016</h3>
 <hr>
 <p>09:00 – 09:30&nbsp;&nbsp;&nbsp; Registration &amp; Poster Placement<br>
 <p><strong>Welcome and Workshop Aims</strong><br>
@@ -41,7 +41,7 @@ Chair: TBA</p>
 17:30 – 18:00&nbsp;&nbsp;&nbsp;TBA<br>
 18:30 – &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Workshop Dinner</p>
 <br>
-<h3> Monday September 26, 2016</h3>
+<h3>Thursday August 25, 2016</h3>
 <hr>
 <p>09:30 – 10:00&nbsp;&nbsp;&nbsp; Registration</p>
 <p><strong>Session 3</strong><br>
@@ -65,7 +65,7 @@ Chair: TBA</p>
 15:40 – 16:40&nbsp;&nbsp;&nbsp;Poster Session<br>
 16:40 – 18:00&nbsp;&nbsp;&nbsp;Bioinformatics Hands-on Session</p>
 <br>
-<h3>Tuesday September 27, 2016</h3>
+<h3>Friday August 26, 2016</h3>
 <hr>
 <p>09:30 – 10:00&nbsp;&nbsp;&nbsp; Registration</p>
 <p><strong>Session 5</strong><br>
