@@ -481,6 +481,49 @@ html {
     padding: 0 1px;
 }
 
+.globalNavItem_sub {
+    display: none;
+    position: absolute;
+    width: 170px;
+    left: 0;
+    top: 45px;
+    margin: 0;
+    padding: 0;
+    background: #F2F1EF;
+    -webkit-box-shadow: 0 2px 3px 0 rgba(0,0,0,0.25);
+    box-shadow: 0 2px 3px 0 rgba(0,0,0,0.25);
+    border-radius: 0;
+    -webkit-border-radius: 0;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.globalNavItem_sub > li {
+    display: block;
+    list-style: none;
+    border-bottom: #ccc;
+}
+
+.globalNavItem_sub > li > a {
+    color: #787878;
+    display: table-cell;
+    width: 150px;
+    text-align: left;
+    padding: 10px;
+    font-weight: normal;
+    text-decoration: none;
+    vertical-align: middle;
+    border-bottom: solid 1px #ccc;
+    white-space: normal;
+    line-height: 1.1;
+    font-weight: bold;
+}
+
+.globalNavItem_sub > li > a:hover, .globalNavItem_sub > li > a:focus {
+    background: #fbfaf8;
+    color: #660098;
+}
+
 .topMainVis {
     position: relative;
     margin: 5px 0 0;
