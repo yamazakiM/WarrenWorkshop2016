@@ -9,7 +9,7 @@ layout: default
   <hr>
   <p id="registration">Registration period for Warren Workshop VI 2016</p>
   <ul>
-  <li>March 1, 2016 - August 10, 2016</li>
+  <li>March 1, 2016 - July 31, 2016</li>
   </ul>
   <br>
   <p id="registration">Abstract submission period</p>
