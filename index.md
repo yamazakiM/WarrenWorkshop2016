@@ -10,7 +10,7 @@ layout: default
      <a id="warren-workshop-vi-2016" class="anchor" href="#warren-workshop-vi-2016" aria-hidden="true"><span class="octicon octicon-link"></span></a>Warren Workshop VI 2016
    </h3>
 
-<p>As conference organizers, Dr. Hisashi Narimatsu, Dr. Kiyoko F. Aoki-Kinoshita and Dr. Ichigaku Takigawa invite you to the upcoming Warren Workshop VI, which will take place in Sapporo, Hokkaido from September 25-27, 2016.</p>
+<p>As conference organizers, Dr. Hisashi Narimatsu, Dr. Kiyoko F. Aoki-Kinoshita and Dr. Ichigaku Takigawa invite you to the upcoming Warren Workshop VI, which will take place in Sapporo, Hokkaido from August 24-26, 2016.</p>
 
 <p>This biennial workshop strives to bring together investigators working on the frontiers of glycan characterization in order to advance the field of glycomics, glycolipidomics, and glycoproteomics. The format of the workshop is designed to facilitate interactions and foster meaningful discussions that will encompass recent technological advances, data analysis, and glycobioinformatics.</p>
 
