@@ -9,7 +9,9 @@ layout: default
 <hr>
 <p><strong>6<sup>th</sup> Charles Warren Workshop 2016<br>
 Theme of the Workshop: Finding meaning in the ambiguity of glycoscience</strong></p>
-<p>August 24 - 26, 2016<br>
+<p>[DATE]<br>
+August 24 - 26, 2016<br>
+[PLACE]<br>
 <a href="http://www.oia.hokudai.ac.jp/maps/?p=sapporo">Frontier Research in Applied Sciences Building</a><br>
 Graduate School and School of Engineering<br>
 Hokkaido University<br>
