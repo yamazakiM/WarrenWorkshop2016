@@ -31,7 +31,7 @@ layout: default
   <h3 id="location">3. From main gate of Hokkaido University to Frontier Research in Applied Sciences       Building</h3>
   <hr>
   <p><strong>Shuttle Bus</strong><br>
-    A free campus shuttle service operates during semester from Monday to Friday (excluding public       holidays.)<br> 
+    A free campus shuttle service operates during semester from Monday to Friday (excluding public       holidays.) Please be aware that a shuttle bus can carry only approximately 20 passengers.<br> 
     The route begins on the western façade of the Administration Building, passing through the main spine of       the campus extending to the Northern Campus area before coming back on the same route.<br>
     Please use <a href="http://www.oia.hokudai.ac.jp/maps/?p=sapporo">Campus Map</a> and click ‘Shuttle Bus        Stops’ from the menu located on the right hand-side of the screen.<br>
     Link to the <a href="https://www.oia.hokudai.ac.jp/wp-content/uploads/2013/08/5.2013-Bus-time-tableHokkaido     -University.pdf">timetable</a> for shuttle bus.</p>
