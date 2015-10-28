@@ -18,6 +18,12 @@ Hokkaido University<br>
 <a href="https://goo.gl/maps/JtP1MdrwH5U2">Kita 13, Nishi 8, Kita-ku, Sapporo, Hokkaido 060-8628, Japan</a></p>
 <br>
 
+<h3>Usage of wireless LAN system at Hokkaido University</h3>
+<hr>
+<p>Hokkaido University is connected to eduroam, world-wide roaming access service and HINES-WLAN service.<br>
+To use wireless LAN system at Hokkaido University, please install <strong>CA certificate(SCRoot2ca.crt)</strong> on your device at <a href="http://www.hines.hokudai.ac.jp/temporary_LAN/">Hokkaido University Information Network System web site.</a><br></p>
+
+
 <h3>Wednesday August 24, 2016</h3>
 <hr>
 <p>09:00 – 09:30&nbsp;&nbsp;&nbsp; Registration &amp; Poster Placement<br>
