@@ -92,7 +92,7 @@ Chair: TBA</p>
 Chair: Kiyoko F. Aoki-Kinoshita</p>
 <p>13:30-16:00&nbsp;&nbsp;&nbsp;Open Discussion<br>
 16:00-16:30&nbsp;&nbsp;&nbsp;Discussion for 7th Warren Workshop in 2018<br>
-16:30&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Meeting Adjournment</p>
+16:30&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Meeting Adjournment</p>
 <br>
  </section>
 </div>
