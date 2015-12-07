@@ -51,7 +51,7 @@ Chair: TBA</p>
 17:15 - 17:25&nbsp;&nbsp;&nbsp;Coffee Break<br>
 17:25 – 18:00&nbsp;&nbsp;&nbsp;TBA<br>
 18:00 – 18:25&nbsp;&nbsp;&nbsp;TBA<br>
-18:30&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Workshop Dinner</p>
+18:30&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Workshop Dinner</p>
 <br>
 <h3>Thursday August 25, 2016</h3>
 <hr>
@@ -77,7 +77,7 @@ Chair: TBA</p>
 14:45 – 14:55&nbsp;&nbsp;&nbsp;Short Talk<br>
 14:55 – 15:05&nbsp;&nbsp;&nbsp;Short Talk<br>
 15:05 – 15:20&nbsp;&nbsp;&nbsp;Coffee Break<br>
-15:20 – 15:45-&nbsp;&nbsp;&nbsp;TBA<br>
+15:20 – 15:45&nbsp;&nbsp;&nbsp;TBA<br>
 15:45 – 16:10&nbsp;&nbsp;&nbsp;TBA<br>
 16:10 – 16:20&nbsp;&nbsp;&nbsp;Short Talk<br>
 16:20 – 16:30&nbsp;&nbsp;&nbsp;Short Talk<br>
@@ -101,7 +101,7 @@ Chair: Kiyoko F. Aoki-Kinoshita</p>
 14:30 – 14:45&nbsp;&nbsp;&nbsp;Coffee Break<br>
 14:45 – 15:30&nbsp;&nbsp;&nbsp;Open Discussion<br>
 15:30 – 16:00&nbsp;&nbsp;&nbsp;Discussion for 7th Warren Workshop in 2018<br>
-16:00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Meeting Adjournment</p>
+16:00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Meeting Adjournment</p>
 <br>
  </section>
 </div>
