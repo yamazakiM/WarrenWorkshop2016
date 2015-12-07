@@ -33,20 +33,22 @@ To use wireless LAN system at Hokkaido University, please install <strong>CA cer
 10:00 – 10:10&nbsp;&nbsp;&nbsp;History of the Warren Workshop</p>
 <p><strong>Session 1</strong><br>
 Chair: TBA</p>
-<p>10:10 – 10:40&nbsp;&nbsp;&nbsp;TBA<br>
-10:40 – 11:10&nbsp;&nbsp;&nbsp;TBA<br>
-11:10 – 11:40&nbsp;&nbsp;&nbsp;TBA<br>
-11:40 – 12:10&nbsp;&nbsp;&nbsp;TBA<br>
-12:10 – 12:15&nbsp;&nbsp;&nbsp;Poster Talk<br>
-12:15 – 12:20&nbsp;&nbsp;&nbsp;Poster Talk<br>
+<p>10:10 – 10:35&nbsp;&nbsp;&nbsp;TBA<br>
+10:35 – 11:00&nbsp;&nbsp;&nbsp;TBA<br>
+11:00 – 11:25&nbsp;&nbsp;&nbsp;TBA<br>
+11:25 – 11:50&nbsp;&nbsp;&nbsp;TBA<br>
+11:50 – 12:00&nbsp;&nbsp;&nbsp;Short Talk<br>
+12:00 – 12:10&nbsp;&nbsp;&nbsp;Short Talk<br>
+12:10 – 12:20&nbsp;&nbsp;&nbsp;Short Talk<br>
 12:20 – 14:00 &nbsp;&nbsp;&nbsp;Lunch<br>
 14:00 – 16:00&nbsp;&nbsp;&nbsp;Poster Session</p>
 <p><strong>Session 2</strong><br>
 Chair: TBA</p>
-<p>16:00 – 16:30&nbsp;&nbsp;&nbsp;TBA<br>
-16:30 – 17:00&nbsp;&nbsp;&nbsp;TBA<br>
-17:00 – 17:30&nbsp;&nbsp;&nbsp;TBA<br>
-17:30 – 18:00&nbsp;&nbsp;&nbsp;TBA<br>
+<p>16:00 – 16:25&nbsp;&nbsp;&nbsp;TBA<br>
+16:25 – 16:50&nbsp;&nbsp;&nbsp;TBA<br>
+16:50 – 17:15&nbsp;&nbsp;&nbsp;TBA<br>
+17:15 – 17:40&nbsp;&nbsp;&nbsp;TBA<br>
+17:40 – 18:05&nbsp;&nbsp;&nbsp;TBA<br>
 18:30 – &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Workshop Dinner</p>
 <br>
 <h3>Thursday August 25, 2016</h3>
@@ -54,35 +56,38 @@ Chair: TBA</p>
 <p>09:30 – 10:00&nbsp;&nbsp;&nbsp; Registration</p>
 <p><strong>Session 3</strong><br>
 Chair:TBA</p>
-<p>10:00 – 10:30&nbsp;&nbsp;&nbsp;TBA<br>
-10:30 – 11:00&nbsp;&nbsp;&nbsp;TBA<br>
-11:00 – 11:30&nbsp;&nbsp;&nbsp;TBA<br>
-11:30 – 12:00&nbsp;&nbsp;&nbsp;TBA<br>
-12:00 – 12:05&nbsp;&nbsp;&nbsp;Poster Talk<br>
-12:05 – 12:10&nbsp;&nbsp;&nbsp;Poster Talk</p>
-12:10 – 13:30 &nbsp;&nbsp;&nbsp;Lunch<br>
-14:00 – 16:00&nbsp;&nbsp;&nbsp;Poster Session</p>
+<p>10:00 – 10:25&nbsp;&nbsp;&nbsp;TBA<br>
+10:25 – 10:50&nbsp;&nbsp;&nbsp;TBA<br>
+10:50 – 11:15&nbsp;&nbsp;&nbsp;TBA<br>
+11:15 – 11:40&nbsp;&nbsp;&nbsp;TBA<br>
+11:40 – 11:50&nbsp;&nbsp;&nbsp;Short Talk<br>
+11:50 – 12:00&nbsp;&nbsp;&nbsp;Short Talk<br>
+12:00 – 12:10&nbsp;&nbsp;&nbsp;Short Talk<br>
+12:10 – 13:30 &nbsp;&nbsp;&nbsp;Lunch</p>
 <p><strong>Session 4</strong><br>
 Chair: TBA</p>
-<p>13:30 – 14:00&nbsp;&nbsp;&nbsp;TBA<br>
-14:00 – 14:30&nbsp;&nbsp;&nbsp;TBA<br>
-14:30 – 15:00&nbsp;&nbsp;&nbsp;TBA<br>
-15:00 – 15:30&nbsp;&nbsp;&nbsp;TBA<br>
-15:30 – 15:35&nbsp;&nbsp;&nbsp;Poster Talk<br>
-15:35 – 15:40-&nbsp;&nbsp;&nbsp;Poster Talk<br>
-15:40 – 16:40&nbsp;&nbsp;&nbsp;Poster Session<br>
-16:40 – 18:00&nbsp;&nbsp;&nbsp;Bioinformatics Hands-on Session</p>
+<p>13:30 – 13:55&nbsp;&nbsp;&nbsp;TBA<br>
+13:55 – 14:20&nbsp;&nbsp;&nbsp;TBA<br>
+14:20 – 14:45&nbsp;&nbsp;&nbsp;TBA<br>
+14:45 – 15:10&nbsp;&nbsp;&nbsp;TBA<br>
+15:10 – 15:35&nbsp;&nbsp;&nbsp;TBA<br>
+15:35 – 16:00-&nbsp;&nbsp;&nbsp;TBA<br>
+16:00 – 16:10&nbsp;&nbsp;&nbsp;Short Talk<br>
+16:10 – 16:20&nbsp;&nbsp;&nbsp;Short Talk<br>
+16:20 – 16:30&nbsp;&nbsp;&nbsp;Short Talk<br>
+16:30 – 18:30&nbsp;&nbsp;&nbsp;Bioinformatics Hands-on Session</p>
 <br>
 <h3>Friday August 26, 2016</h3>
 <hr>
 <p>09:30 – 10:00&nbsp;&nbsp;&nbsp; Registration</p>
 <p><strong>Session 5</strong><br>
 Chair: TBA</p>
-<p>10:00 – 10:30&nbsp;&nbsp;&nbsp;TBA<br>
-10:30 – 11:00&nbsp;&nbsp;&nbsp;TBA<br>
-11:00 – 11:30&nbsp;&nbsp;&nbsp;TBA<br>
-11:30 – 12:00&nbsp;&nbsp;&nbsp;TBA<br>
-12:00 – 13:30 &nbsp;&nbsp;&nbsp;Lunch</p>
+<p>10:00 – 10:25&nbsp;&nbsp;&nbsp;TBA<br>
+10:25 – 10:50&nbsp;&nbsp;&nbsp;TBA<br>
+10:50 – 11:15&nbsp;&nbsp;&nbsp;TBA<br>
+11:15 – 11:40&nbsp;&nbsp;&nbsp;TBA<br>
+11:40 – 12:05&nbsp;&nbsp;&nbsp;TBA<br>
+12:05 – 13:30 &nbsp;&nbsp;&nbsp;Lunch</p>
 <p><strong>Discussion</strong><br>
 Chair: Kiyoko F. Aoki-Kinoshita</p>
 <p>13:30-16:00&nbsp;&nbsp;&nbsp;Open Discussion<br>
