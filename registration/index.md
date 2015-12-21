@@ -19,33 +19,15 @@ layout: default
   <br>
   <h3>Registration Fee</h3>
   <hr>
-  <table>
-	<tbody>
-		<tr>
-			<td>Category</td>
-			<td>Registration Fee</td>
-		</tr>
-		<tr>
-			<td colspan="2">Workshop</td>
-		</tr>
-		<tr>
-			<td>Student</td>
-			<td>3,000JPY</td>
-		</tr>
-		<tr>
-			<td>Other (Researcher/Academic/Corporate)</td>
-			<td>10,000JPY</td>
-		</tr>
-		<tr>
-			<td colspan="2">Social Activity</td>
-		</tr>
-		<tr>
-			<td>Workshop Dinner</td>
-			<td>6,000JPY</td>
-		</tr>
-	</tbody>
-</table>
-  
+  <p>Registration Fee for Workshop</p>
+  <ul>
+  <li>Student: 3,000JPY</li>
+  <li>Other: 10,000JPY</li>
+  </ul>
+  <p>Registration Fee for Workshop Dinner</p>
+  <ul>
+  <li>Workshop Dinner: 6,000JPY</li>
+  </ul>
   <p></p>
   <p></p>
   <p></p>
