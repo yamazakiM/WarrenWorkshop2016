@@ -524,6 +524,32 @@ html {
     color: #660098;
 }
 
+globalNavItem_btn-pulldown {
+    position: relative;
+    padding: 0 15px 0 0;
+    height: 45px;
+    box-sizing: border-box;
+}
+
+.globalNavItem_btn-pulldown > .globalNavItem_text {
+    padding: 0 0 0 0;
+}
+
+.globalNavItem_btn-pulldown > .globalNavItem_text:after {
+    content: '\203a';
+    position: absolute;
+    top: 8px;
+    right: 15px;
+    font-size: 13px;
+    vertical-align: middle;
+    padding: 0 0 15px;
+    -moz-transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
 .topMainVis {
     position: relative;
     margin: 5px 0 0;
