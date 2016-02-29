@@ -1,5 +1,5 @@
 ---
-title: register
+title: registrationForm
 layout: default
 ---
 <!-- MAIN CONTENT -->
