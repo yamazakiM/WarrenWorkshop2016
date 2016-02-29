@@ -6,7 +6,7 @@ layout: default
 <div id="main_content_wrap" class="outer">
   <section id="main_content" class="inner">
     <h3 id="location">Instractions to Submit Abstract</h3>
-    <hr>
+    <!--<hr>-->
 
 <ul class="instraction">
   <li>
