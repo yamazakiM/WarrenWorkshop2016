@@ -49,7 +49,7 @@ layout: default
   <h4 class="registration">Registration</h4>
   <ul>
   <li>To register for Warren Workshop VI, please click "Register" button and fill out the form no later than <strong>July 31, 2016</strong>.</li>
-  <a href="{{site.url}}/register" class="button_register"><input id="button_register" class="button_register" type="button" alt="register" value="Register"></a>
+  <a href="{{site.url}}/registrationForm" class="button_register"><input id="button_register" class="button_register" type="button" alt="register" value="Register"></a>
   </ul><br>
   <ul>
   <li>After registration, please make payment no later than<strong> July 31, 2016</strong>.</li>
