@@ -6,7 +6,7 @@ layout: default
 <div id="main_content_wrap" class="outer">
   <section id="main_content" class="inner">
 <h3>Payment</h3>
-<hr>
+<!--<hr>-->
 
 <p>Please select items to pay for and click "Add to Cart" button.</p>
 		
