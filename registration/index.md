@@ -19,17 +19,18 @@ layout: default
    </ul><br>
    
  <ul>
-   <li id="registration">Registration and payment period for Warren Workshop VI 2016<br>
+   <li>Registration and payment period for Warren Workshop VI 2016<br>
    <strong>March 1, 2016 - July 31, 2016</strong></li>
  </ul>
 </div>
+
 <br>
 <div class="submit">
    <h4 class="registration">Abstract submission</h4>
   <ul>
   <li>To submit abstract, please download MS word file as a template.</li> 
    <a href="{{site.url}}/images/AbstractTemplate.docx"><input id="button_submit" class="button_submit" type="button" alt="submit" value="Download Abstract Template Form"></a>
-     </ul><br>
+   </ul><br>
      
    <ul>
    <li>After download a template, please click "Submit Abstract" button and follow the instractions.</li>
@@ -37,7 +38,7 @@ layout: default
    </ul><br>
    
    <ul>
-    <li id="registration">Abstract submission period<br>
+    <li>Abstract submission period<br>
     <strong>March 1, 2016 - June 30, 2016</strong></li>
   </ul>
 </div>
