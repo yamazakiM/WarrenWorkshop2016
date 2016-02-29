@@ -6,7 +6,7 @@ layout: default
 <div id="main_content_wrap" class="outer">
   <section id="main_content" class="inner">
   <h3>Registration and Abstract</h3>
-  <hr>
+  <!--<hr>-->
  <div class="register">
   <h4 class="registration">Registration</h4>
   <ul>
