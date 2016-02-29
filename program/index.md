@@ -6,7 +6,7 @@ layout: default
 <div id="main_content_wrap" class="outer">
   <section id="main_content" class="inner">
 <h3>Program</h3>
-<hr>
+<!--<hr>-->
 <p><strong>6<sup>th</sup> Charles Warren Workshop 2016<br>
 Theme of the Workshop: Finding meaning in the ambiguity of glycan structures</strong></p>
 <p>[DATE]<br>
@@ -19,7 +19,7 @@ Hokkaido University<br>
 <br>
 
 <h3>Wednesday August 24, 2016</h3>
-<hr>
+<!--<hr>-->
 <p>09:00 – 09:30&nbsp;&nbsp;&nbsp; Registration &amp; Poster Placement<br>
 <p><strong>Welcome and Workshop Aims</strong><br>
 09:30 – 09:40&nbsp;&nbsp;&nbsp; Welcome<br>
@@ -48,7 +48,7 @@ Chair: TBA</p>
 18:30&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Workshop Dinner</p>
 <br>
 <h3>Thursday August 25, 2016</h3>
-<hr>
+<!--<hr>-->
 <p>09:00 – 09:30&nbsp;&nbsp;&nbsp; Registration</p>
 <p><strong>Session 3</strong><br>
 Chair:TBA</p>
@@ -78,7 +78,7 @@ Chair: TBA</p>
 16:30 – 18:30&nbsp;&nbsp;&nbsp;Bioinformatics Hands-on Session</p>
 <br>
 <h3>Friday August 26, 2016</h3>
-<hr>
+<!--<hr>-->
 <p>09:00 – 09:30&nbsp;&nbsp;&nbsp; Registration</p>
 <p><strong>Session 5</strong><br>
 Chair: TBA</p>
@@ -99,7 +99,7 @@ Chair: Kiyoko F. Aoki-Kinoshita</p>
 <br>
 
 <h3>Usage of wireless LAN system at Hokkaido University</h3>
-<hr>
+<!--<hr>-->
 <p>Hokkaido University is connected to eduroam, world-wide roaming access service.<br>
 To use wireless LAN system at Hokkaido University, please install <strong>CA certificate(SCRoot2ca.crt)</strong> on your device at <a href="http://www.hines.hokudai.ac.jp/temporary_LAN/">Hokkaido University Information Network System web site</a> in advance.<br></p>
 <br>
