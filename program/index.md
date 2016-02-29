@@ -8,7 +8,7 @@ layout: default
 <h3>Program</h3>
 <hr>
 <p><strong>6<sup>th</sup> Charles Warren Workshop 2016<br>
-Theme of the Workshop: Finding meaning in the ambiguity of glycoscience</strong></p>
+Theme of the Workshop: Finding meaning in the ambiguity of glycan structures</strong></p>
 <p>[DATE]<br>
 August 24 - 26, 2016<br>
 [PLACE]<br>
@@ -16,12 +16,6 @@ August 24 - 26, 2016<br>
 Graduate School and School of Engineering<br>
 Hokkaido University<br>
 <a href="https://goo.gl/maps/JtP1MdrwH5U2">Kita 13, Nishi 8, Kita-ku, Sapporo, Hokkaido 060-8628, Japan</a></p>
-<br>
-
-<h3>Usage of wireless LAN system at Hokkaido University</h3>
-<hr>
-<p>Hokkaido University is connected to eduroam, world-wide roaming access service.<br>
-To use wireless LAN system at Hokkaido University, please install <strong>CA certificate(SCRoot2ca.crt)</strong> on your device at <a href="http://www.hines.hokudai.ac.jp/temporary_LAN/">Hokkaido University Information Network System web site</a> in advance.<br></p>
 <br>
 
 <h3>Wednesday August 24, 2016</h3>
@@ -103,5 +97,12 @@ Chair: Kiyoko F. Aoki-Kinoshita</p>
 15:30 – 16:00&nbsp;&nbsp;&nbsp;Discussion for 7th Warren Workshop in 2018<br>
 16:00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Meeting Adjournment</p>
 <br>
+
+<h3>Usage of wireless LAN system at Hokkaido University</h3>
+<hr>
+<p>Hokkaido University is connected to eduroam, world-wide roaming access service.<br>
+To use wireless LAN system at Hokkaido University, please install <strong>CA certificate(SCRoot2ca.crt)</strong> on your device at <a href="http://www.hines.hokudai.ac.jp/temporary_LAN/">Hokkaido University Information Network System web site</a> in advance.<br></p>
+<br>
+
  </section>
 </div>
