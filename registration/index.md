@@ -44,7 +44,7 @@ layout: default
 </div>
 <br>
   <h3>Registration Fee</h3>
-  <hr>
+ <!-- <hr>-->
 <div class="registrationFee">
   <h4 class="registration">Registration Fee for Workshop</h4>
   <ul>
