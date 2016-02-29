@@ -49,11 +49,11 @@ layout: default
   <h4 class="registration">Registration</h4>
   <ul>
   <li>To register for Warren Workshop VI, please click "Register" button and fill out the form no later than <strong>July 31, 2016</strong>.</li>
-  <a href="{{site.url}}/registration/register" class="button_register"><input id="button_register" class="button_register" type="button" alt="register" value="Register"></a>
+  <a href="{{site.url}}/register" class="button_register"><input id="button_register" class="button_register" type="button" alt="register" value="Register"></a>
   </ul><br>
   <ul>
   <li>After registration, please make payment no later than<strong> July 31, 2016</strong>.</li>
-  <a href="{{site.url}}/registration/payment"><input id="button_payment" class="button_payment" type="button" alt="payment" value="Payment"></a> 
+  <a href="{{site.url}}/payment"><input id="button_payment" class="button_payment" type="button" alt="payment" value="Payment"></a> 
    </ul><br>
    
  <ul>
@@ -74,7 +74,7 @@ layout: default
      
    <ul>
    <li>After download a template, please click "Submit Abstract" button and follow the instractions.</li>
-  <a href="{{site.url}}/registration/submit"><input id="button_submit" class="button_submit" type="button" alt="submit" value="Submit Abstract"></a>
+  <a href="{{site.url}}/submit"><input id="button_submit" class="button_submit" type="button" alt="submit" value="Submit Abstract"></a>
    </ul><br>
    
    <ul>
