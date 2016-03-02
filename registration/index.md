@@ -29,7 +29,7 @@ layout: default
    <h4 class="registration">Abstract submission</h4>
   <ul>
   <li>To submit abstract, please download MS word file as a template.</li> 
-   <a href="{{site.url}}/images/AbstractTemplateForm.docx"><input id="button_submit" class="button_submit" type="button" alt="submit" value="Download Abstract Template Form"></a>
+   <a href="{{site.url}}/images/AbstractTemplateFormat.docx"><input id="button_submit" class="button_submit" type="button" alt="submit" value="Download Abstract Template Form"></a>
    </ul><br>
      
    <ul>
