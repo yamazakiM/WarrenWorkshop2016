@@ -10,11 +10,11 @@ layout: default
  <div class="register">
   <h4 class="registration">Registration</h4>
   <ul>
-  <li>To register for Warren Workshop VI, please click "Register" button and fill out the form no later than <strong>July 31, 2016</strong>.</li>
+  <li>To register for Warren Workshop VI, please click "Register" button and fill out the form. No later than <strong>July 31, 2016</strong>.</li>
   <a href="{{site.url}}/registrationForm" class="button_register"><input id="button_register" class="button_register" type="button" alt="register" value="Register"></a>
   </ul><br>
   <ul>
-  <li>After registration, please make payment no later than<strong> July 31, 2016</strong>.</li>
+  <li>After registration, please make payment. No later than<strong> July 31, 2016</strong>.</li>
   <a href="{{site.url}}/payment"><input id="button_payment" class="button_payment" type="button" alt="payment" value="Payment"></a> 
    </ul><br>
    
@@ -29,7 +29,7 @@ layout: default
    <h4 class="registration">Abstract submission</h4>
   <ul>
   <li>To submit abstract, please download MS word file as a template.</li> 
-   <a href="{{site.url}}/images/AbstractTemplate.docx"><input id="button_submit" class="button_submit" type="button" alt="submit" value="Download Abstract Template Form"></a>
+   <a href="{{site.url}}/images/AbstractTemplateForm.docx"><input id="button_submit" class="button_submit" type="button" alt="submit" value="Download Abstract Template Form"></a>
    </ul><br>
      
    <ul>
