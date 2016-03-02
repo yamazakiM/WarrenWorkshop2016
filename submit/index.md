@@ -11,7 +11,7 @@ layout: default
 <ul class="instraction">
   <li>
    1. Register to attend  Warren Workshop VI and make payment before submitting abstract.<br>
-   &nbsp;  &nbsp; If you have not registered or made payment, please go to <a href="a href="{{site.url}}/registration/register">registration page.</a>
+   &nbsp;  &nbsp; If you have not registered or made payment, please go to <a href="a href="{{site.url}}/registration">registration page.</a>
   </li>
   <br>
   
