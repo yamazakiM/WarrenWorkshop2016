@@ -411,6 +411,7 @@ html {
   overflow:visible;
   z-index:2000;
 }
+
 form.workshop > table{
   border:none;
 }
@@ -559,6 +560,7 @@ globalNavItem_btn-pulldown {
 
 .topMainVis {
     position: relative;
+    width:100%;
     margin: 5px 0 0;
     height: 160px;
     background-color:#87d8d3;
@@ -567,11 +569,12 @@ globalNavItem_btn-pulldown {
     clear: both;
     margin-top:34px;
     box-shadow:0 2px 3px 0 rgba(0, 0, 0, 0.25);
+    background-size:cover;
 }
 
 .topMainVis_inner {
     position: relative;
-    width: 940px;
+    width: 640px;
     height: 100%;
     margin: 0 auto;
     background-size: 223px auto;
