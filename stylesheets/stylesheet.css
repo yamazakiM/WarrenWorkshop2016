@@ -422,7 +422,7 @@ form.workshop > table{
     }
 }
 
-.globalNav_inner {
+#globalNav_inner {
     position: relative;
     width: 640px;
     height: 35px;
@@ -706,6 +706,11 @@ img.abstract{
   box-shadow:none;
   border:none;
   margin-left:15px;
+}
+
+h1#project_title, h4#project_theme{
+  text-align:center;
+  min-width:640px;
 }
 
 /*******************************************************************************
