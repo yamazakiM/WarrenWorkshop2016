@@ -6,7 +6,7 @@ layout: default
 <div id="main_content_wrap" class="outer">
   <section id="main_content" class="inner">
   <h3>Registration and Abstract</h3>
-  <hr>
+
  <div class="register">
   <h4 class="registration">Registration</h4>
   <ul>
@@ -19,8 +19,8 @@ layout: default
    </ul><br>
    
  <ul>
-   <li id="registration">Registration and payment period for Warren Workshop VI 2016<br>
-   <strong>March 1, 2016 - July 31, 2016</strong></li>
+   <li id="registration">Registration and payment deadline for Warren Workshop VI 2016<br>
+   <strong>July 31, 2016</strong></li>
  </ul>
 <!--  <ul>
   <li>March 1, 2016 - July 31, 2016</li>
@@ -40,8 +40,8 @@ layout: default
    </ul><br>
    
    <ul>
-    <li id="registration">Abstract submission period<br>
-    <strong>March 1, 2016 - June 30, 2016</strong></li>
+    <li id="registration">Abstract submission deadline<br>
+    <strong>June 30, 2016</strong></li>
   </ul>
   <!--<ul>
   <li>March 1, 2016 - June 30, 2016</li>
@@ -49,7 +49,7 @@ layout: default
 </div>
 <br>
   <h3>Registration Fee</h3>
-  <hr>
+
 <div class="registrationFee">
   <h4 class="registration">Registration Fee for Workshop</h4>
   <ul>
