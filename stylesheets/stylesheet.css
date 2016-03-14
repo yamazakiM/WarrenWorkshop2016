@@ -401,7 +401,7 @@ html {
 .globalNav{
   position:fixed;
   width:100%;
-  height:35px;
+  height:45px;
   top:0;
   left:0;
   color:#787878;
@@ -411,6 +411,7 @@ html {
   overflow:visible;
   z-index:2000;
 }
+
 form.workshop > table{
   border:none;
 }
@@ -425,38 +426,38 @@ form.workshop > table{
 #globalNav_inner {
     position: relative;
     width: 640px;
-    height: 35px;
+    height: 45px;
     margin: 0 auto;
+    width: 640px;
 }
 
 .globalNav_ul {
     display: table;
-    width: 80%;
-    height: 35px;
+    width: 94%;
+    height: 45px;
     float: left;
     table-layout: fixed;
     overflow: visible;
-    margin: 0 100px 0 100px;
 }
 
 .globalNavItem {
     display: table-cell;
-    height: 35px;
+    height: 45px;
     list-style: none;
 }
 
 .globalNavItem_group {
     position: relative;
-    height: 35px;
+    height: 45px;
 }
 
 .globalNavItem_btn {
     border-bottom: 2px solid #eee;
     color: #787878;
     display: block;
-    font-size: 12px;
+    font-size: 11px;
     font-weight: bold;
-    height: 33px;
+    height: 43px;
     overflow: hidden;
     text-align: center;
     vertical-align: middle;
@@ -559,6 +560,7 @@ globalNavItem_btn-pulldown {
 
 .topMainVis {
     position: relative;
+    width:100%;
     margin: 5px 0 0;
     height: 160px;
     background-color:#87d8d3;
@@ -567,17 +569,26 @@ globalNavItem_btn-pulldown {
     clear: both;
     margin-top:34px;
     box-shadow:0 2px 3px 0 rgba(0, 0, 0, 0.25);
+    width:100%;
+    background-size:cover;
 }
 
 .topMainVis_inner {
     position: relative;
-    width: 940px;
+    width: 640px;
     height: 100%;
     margin: 0 auto;
     background-size: 223px auto;
-    text-align:center;
     z-index: 200;
     margin-top:30px;
+}
+
+.topMainVis_inner:after {
+    content: '';
+    width: 1px;
+    height: 100%;
+    display: inline-block;
+    vertical-align: middle;
 }
 
 footer{
@@ -601,6 +612,7 @@ footer ul{
 #main-content{
   background-color:#fff;
   margin-bottom:100px;
+  width:100%;
 }
 
 .ggmap {
@@ -687,6 +699,7 @@ form.workshop, form.workshopDinner{
 div#viewCart{
   text-align:center;
   margin-top:250px;
+  clear:both;
 }
 
 div#workshop{
@@ -722,17 +735,43 @@ Small Device Styles
     font-size:14px;
   }
 
+img{
+max-width: 100%;
+height: auto;
+width /***/:auto;　
+}
+
+#content_outer{
+width:100%;
+}
+
   #downloads {
     display: none;
   }
-
+/*
   .inner {
     min-width: 320px;
     max-width: 480px;
   }
+*/
+  
+/*nav.globalNav{
+  min-width:320px;
+  max-width:480px;
+}
+
+ul.globalNav_ul{
+  min-width:300px;
+  max-width:460px;
+}*/
+
+.topMainVis{
+  max-width: 100%;
+}
 
   #project_title {
   font-size: 32px;
+  max-width:100%;
   }
 
   h1 {
