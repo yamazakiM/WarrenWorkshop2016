@@ -428,6 +428,7 @@ form.workshop > table{
     width: 640px;
     height: 45px;
     margin: 0 auto;
+    width: 640px;
 }
 
 .globalNav_ul {
@@ -437,7 +438,6 @@ form.workshop > table{
     float: left;
     table-layout: fixed;
     overflow: visible;
-    margin: 0 auto;
 }
 
 .globalNavItem {
@@ -569,6 +569,7 @@ globalNavItem_btn-pulldown {
     clear: both;
     margin-top:34px;
     box-shadow:0 2px 3px 0 rgba(0, 0, 0, 0.25);
+    width:100%;
     background-size:cover;
 }
 
@@ -578,9 +579,16 @@ globalNavItem_btn-pulldown {
     height: 100%;
     margin: 0 auto;
     background-size: 223px auto;
-    text-align:center;
     z-index: 200;
     margin-top:30px;
+}
+
+.topMainVis_inner:after {
+    content: '';
+    width: 1px;
+    height: 100%;
+    display: inline-block;
+    vertical-align: middle;
 }
 
 footer{
@@ -604,6 +612,7 @@ footer ul{
 #main-content{
   background-color:#fff;
   margin-bottom:100px;
+  width:100%;
 }
 
 .ggmap {
@@ -726,17 +735,43 @@ Small Device Styles
     font-size:14px;
   }
 
+img{
+max-width: 100%;
+height: auto;
+width /***/:auto;　
+}
+
+#content_outer{
+width:100%;
+}
+
   #downloads {
     display: none;
   }
-
+/*
   .inner {
     min-width: 320px;
     max-width: 480px;
   }
+*/
+  
+/*nav.globalNav{
+  min-width:320px;
+  max-width:480px;
+}
+
+ul.globalNav_ul{
+  min-width:300px;
+  max-width:460px;
+}*/
+
+.topMainVis{
+  max-width: 100%;
+}
 
   #project_title {
   font-size: 32px;
+  max-width:100%;
   }
 
   h1 {
