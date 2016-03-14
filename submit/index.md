@@ -41,7 +41,8 @@ layout: default
     5. Email the abstract to the following email address before <strong>June 30, 2016</strong>:<br>
     <img class="abstract" alt="warrenworkshop_email.png" src="../../images/warrenworkshop_email.png" border="0">
     &nbsp; <strong>Indicate the following information with your submission via email:</strong><br>
-    &nbsp; &nbsp; &nbsp; <strong>Subject Line</strong> - please use following format in the subject line:<br>
+    &nbsp; &nbsp; &nbsp; <strong>Subject Line</strong><br>
+    &nbsp; &nbsp; &nbsp; please use following format in the subject line:<br>
     &nbsp; &nbsp; &nbsp; - Abstract Submission:your last name, first name<br>
     &nbsp; &nbsp; &nbsp; <strong>Body of Email</strong><br>
     &nbsp; &nbsp; &nbsp; - Your full name<br>
