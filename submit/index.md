@@ -11,7 +11,7 @@ layout: default
 <ul class="instraction">
   <li>
    1. Register to attend  Warren Workshop VI and make payment before submitting abstract.<br>
-   &nbsp;  &nbsp; If you have not registered or made payment, please go to <a href="a href="{{site.url}}/registration/register">registration page.</a>
+   &nbsp;  &nbsp; If you have not registered or made payment, please go to <a href="{{site.url}}/registrationForm">registration page.</a>
   </li>
   <br>
   
@@ -24,11 +24,11 @@ layout: default
   <br>
   <li>
    3. Name the file as following;<br>
-    &nbsp;&#x2022 If your abstract is for oral presentation, save file as<br> 
+    &nbsp;- If your abstract is for oral presentation, save file as<br> 
     &nbsp; &nbsp; &nbsp; &nbsp;<strong>“Presenter’sLastnameFirstname_oral.docx”</strong><br>
-    &nbsp;&#x2022 If your abstract is for poster session, save file as <br>
+    &nbsp;- If your abstract is for poster session, save file as <br>
     &nbsp; &nbsp; &nbsp; &nbsp;<strong>“Presenter’sLastnameFirstname_poster.docx”</strong><br>
-    &nbsp;&#x2022 If your abstract is for bioinformatics hands-on session, save file as<br>
+    &nbsp;- If your abstract is for bioinformatics hands-on session, save file as<br>
     &nbsp; &nbsp; &nbsp; &nbsp;<strong>“Presenter’sLastnameFirstname_bio.docx”</strong>
   </li>
   <br>
@@ -42,16 +42,16 @@ layout: default
     <img class="abstract" alt="warrenworkshop_email.png" src="../../images/warrenworkshop_email.png" border="0">
     &nbsp; <strong>Indicate the following information with your submission via email:</strong><br>
     &nbsp; &nbsp; &nbsp; <strong>Subject Line</strong> - please use following format in the subject line:<br>
-    &nbsp; &nbsp; &nbsp; &#x2022 Abstract Submission:your last name, first name<br>
+    &nbsp; &nbsp; &nbsp; - Abstract Submission:your last name, first name<br>
     &nbsp; &nbsp; &nbsp; <strong>Body of Email</strong><br>
-    &nbsp; &nbsp; &nbsp; &#x2022 Your full name<br>
-    &nbsp; &nbsp; &nbsp; &#x2022 Affiliation<br>
-    &nbsp; &nbsp; &nbsp; &#x2022 Title of abstract<br>
-    &nbsp; &nbsp; &nbsp; &#x2022 Full name of the presenting author<br>
-    &nbsp; &nbsp; &nbsp; &#x2022 Email address of the presenting author<br>
-    &nbsp; &nbsp; &nbsp; &#x2022 Your preference on the mode of presentation<br>
+    &nbsp; &nbsp; &nbsp; - Your full name<br>
+    &nbsp; &nbsp; &nbsp; - Affiliation<br>
+    &nbsp; &nbsp; &nbsp; - Title of abstract<br>
+    &nbsp; &nbsp; &nbsp; - Full name of the presenting author<br>
+    &nbsp; &nbsp; &nbsp; - Email address of the presenting author<br>
+    &nbsp; &nbsp; &nbsp; - Your preference on the mode of presentation<br>
     &nbsp; &nbsp; &nbsp; &nbsp; (oral, poster, or bioinformatics hands-on session)<br>
-    &nbsp; &nbsp; &nbsp; &#x2022 Date you would like your abstract to be considered for presentation.
+    &nbsp; &nbsp; &nbsp; - Date you would like your abstract to be considered for presentation.
   
   </li>
 </ul>
