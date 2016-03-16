@@ -74,6 +74,7 @@ layout: default
   <li> Photocopy of passport<br>
   - Copy of the photo and signature page</li>
   </ul>
+<p>Email documents to: <img class="abstract" alt="warrenworkshop_email.png" src="../images/warrenworkshop_email.png" border="0"></p>
   <p>We will mail the documents to you as soon as they are ready.<br>
 Please make sure to provide us with correct mailing address. </p>
 </div>
