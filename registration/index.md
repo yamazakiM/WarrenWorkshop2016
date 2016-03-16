@@ -69,7 +69,7 @@ layout: default
   <ul>
   <li>Visa Questionnaire<br>
   Download MS word file as a template and fill in the questionnaire.<br>
-   <a href="{{site.url}}/images/VisaQuestionnaire.docx"><input id="button_submit" class="button_submit" type="button" alt="submit" value="Download Visa Questionnaire"></a></li>
+   <a href="{{site.url}}/images/Visa Questionnaire.docx"><input id="button_submit" class="button_submit" type="button" alt="submit" value="Download Visa Questionnaire"></a></li>
   <li>Curriculum Vitae<br> 
   - Date of birth must be indicated</li>
   <li> Photocopy of passport<br>
