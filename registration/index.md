@@ -65,7 +65,7 @@ layout: default
 <br>
 <div class="visa">
  <h3>Apply for Visa</h3>
-  <p>In order to prepare the official documents for you to apply for a Visa, please e-mail us following documents:</p>
+  <p>In order to prepare the official documents for you to apply for a Visa, please email us following documents:</p>
   <ul>
   <li>Visa Questionnaire<br>
   Download MS word file as a template and fill in the questionnaire.<br>
@@ -75,6 +75,7 @@ layout: default
   <li> Photocopy of passport<br>
   - Copy of the photo and signature page</li>
   </ul>
+<p>Email documents to: <img class="abstract" alt="warrenworkshop_email.png" src="../images/warrenworkshop_email.png" border="0"></p>
   <p>We will mail the documents to you as soon as they are ready.<br>
 Please make sure to provide us with correct mailing address. </p>
 </div>
