@@ -98,6 +98,33 @@ Chair: Kiyoko F. Aoki-Kinoshita</p>
 16:00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Meeting Adjournment</p>
 <br>
 
+
+<h3>Speakers</h3>
+<ul>
+<li><strong>Carlito Lebrilla</strong> / University of California, Davis, USA</li>
+<li><strong>Frederique Lisacek</strong> / Swiss Institue of Bioinformatics, Switzerland</li>
+<li><strong>Gavin Davey</strong> / Trinity College Dublin, Ireland</li>
+<li><strong>Gerald Hart</strong> / Johns Hopkins University, USA</li>
+<li><strong>Henrik Clausen</strong> / University of Copenhagen, Denmark</li>
+<li><strong>Jianxin Gu</strong> / Shanghai Medical College of Fudan University, China</li>
+<li><strong>Jim Paulson</strong> / The Scripps Research Institute, USA</li>
+<li><strong>Kay-Hooi Khoo</strong> / Institute of Biological Chemistry, Academia Sinica, Taiwan  </li>
+<li><strong>Kshitij Khatri</strong> / Boston University, USA </li>
+<li><strong>Matthew Campbell</strong> / Macquarie University, Australia</li>
+<li><strong>Michael Tiemeyer</strong> / The University of Georgia, USA</li>
+<li><strong>Nicolle Packer</strong> /  Macquarie University, Australia</li>
+<li><strong>Niclas Karlsson</strong> / University of Gothenburg, Sweden</li>
+<li><strong>Rene Ranzinger</strong> / CCRC, The University of Georgia, USA</li>
+<li><strong>Robert Woods</strong> / CCRC, The University of Georgia, USA</li>
+<li><strong>Simon North</strong> /  Imperial College London, UK</li>
+<li><strong>Ten Feizi</strong> /  Imperial College London, UK</li>
+<li><strong>William York</strong> / CCRC, The University of Georgia, USA</li>
+<li><strong>Yan Zhang</strong>  / Shanghai Jiao Tong University, China </li>
+</ul>
+<br>
+
+
+
 <h3>Usage of wireless LAN system at Hokkaido University</h3>
 <!--<hr>-->
 <p>Hokkaido University is connected to eduroam, world-wide roaming access service.<br>
