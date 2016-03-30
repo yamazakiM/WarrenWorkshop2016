@@ -609,6 +609,10 @@ footer ul{
   color:#787878;
 }
 
+.pageTop{
+  float:left;
+}
+
 #main-content{
   background-color:#fff;
   margin-bottom:100px;
@@ -726,6 +730,64 @@ h1#project_title, h4#project_theme{
   min-width:640px;
 }
 
+
+#pageTop a:hover {
+      text-decoration: none;
+      opacity: 0.7;
+    }
+
+#pageTop a {
+      display: block;
+      z-index: 999;
+      padding: 0px 0 0 0px;
+      border-radius: 30px;
+      width: 35px;
+      height: 35px;
+      background-color: #9FD6D2;
+      color: #fff;
+      font-weight: bold;
+      text-decoration: none;
+      text-align: center;
+      margin-left:980px;
+      position:fixed;
+      bottom:30px;
+      left:auto;
+    }
+    
+#pageTop{
+  position:relative;
+  width:90%;
+  max-width:900px;
+  height:0;
+  margin:auto 0;
+}
+    
+/* ページトップへ戻る */
+/*.pageTop {
+    position:relative;
+    width:90%;
+    max-width:900px;
+    height:0;
+    margin:0 auto;
+}
+.pageTop a {
+    position: fixed;
+    bottom: 0px;
+    left:auto;
+    display: block;
+    width: 66px;
+    hegiht:66px;
+    margin-left:920px;*/
+    /* ↓以下はリンク装飾↓ */
+   /* padding:1em 0;
+    background:#3498db;
+    text-align:center;
+    outline:none;
+    text-decoration: none;
+    z-index:9999;
+    border-radius:3px 3px 0 0;
+}*/
+
 /*******************************************************************************
 Small Device Styles
 *******************************************************************************/
@@ -805,3 +867,32 @@ ul.globalNav_ul{
   }
 
 }
+/* =====================
+    タブレット向け
+======================= */
+@media screen and (min-width: 480px) and (max-width: 959px) {
+ 
+#pageTop {
+    width:100%;
+}
+#pageTop a {
+    left:-68px;
+    margin-left:100%;
+}
+ 
+/* タブレット向けここまで */ }
+ 
+/* =====================
+    スマホ向け
+======================= */
+@media screen and (max-width: 479px) {
+ 
+#pageTop {
+    width:100%;
+}
+#pageTop a {
+    left:-68px;
+    margin-left:100%;
+}
+ 
+/* スマホ向けここまで */ }
