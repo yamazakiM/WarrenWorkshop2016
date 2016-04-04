@@ -98,32 +98,6 @@ Chair: Kiyoko F. Aoki-Kinoshita</p>
 16:00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Meeting Adjournment</p>
 <br>
 
-
-<h3>Speakers</h3>
-<ul>
-<li>Carlito Lebrilla / University of California, Davis, USA</li>
-<li>Frederique Lisacek / Swiss Institue of Bioinformatics, Switzerland</li>
-<li>Gavin Davey / Trinity College Dublin, Ireland</li>
-<li>Gerald Hart / Johns Hopkins University, USA</li>
-<li>Henrik Clausen / University of Copenhagen, Denmark</li>
-<li>Jianxin Gu / Shanghai Medical College of Fudan University, China</li>
-<li>Jim Paulson / The Scripps Research Institute, USA</li>
-<li>Kay-Hooi Khoo / Institute of Biological Chemistry, Academia Sinica, Taiwan  </li>
-<li>Kshitij Khatri / Boston University, USA </li>
-<li>Matthew Campbell / Macquarie University, Australia</li>
-<li>Michael Tiemeyer / The University of Georgia, USA</li>
-<li>Nicolle Packer /  Macquarie University, Australia</li>
-<li>Niclas Karlsson / University of Gothenburg, Sweden</li>
-<li>Rene Ranzinger / CCRC, The University of Georgia, USA</li>
-<li>Robert Woods / CCRC, The University of Georgia, USA</li>
-<li>Simon North /  Imperial College London, UK</li>
-<li>Ten Feizi /  Imperial College London, UK</li>
-<li>William York / CCRC, The University of Georgia, USA</li>
-<li>Yan Zhang  / Shanghai Jiao Tong University, China </li>
-</ul>
-<br>
-
-
 <h3>Usage of wireless LAN system at Hokkaido University</h3>
 <!--<hr>-->
 <p>Hokkaido University is connected to eduroam, world-wide roaming access service.<br>
