@@ -1,5 +1,5 @@
 ---
-title: location
+title: sapporo travel guide
 layout: default
 ---
 <!-- MAIN CONTENT -->
