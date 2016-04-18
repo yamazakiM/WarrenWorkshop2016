@@ -398,6 +398,34 @@ html {
   vertical-align:center;
 }
 
+.navbar .brand {
+  padding: 8px 20px 12px;
+  font-size: 20px;
+  color: #565454;
+}
+
+.navbar .divider-vertical {
+  height: 41px;
+  background-color: #ffffff;
+  border-right: 1px solid #c6c6c6;
+}
+
+.navbar .nav > li > a {
+  padding: 10px 30px 11px;
+  font-size: 14px;
+  color: #5e5555;
+}
+
+.navbar .nav > .active > a,
+.navbar .nav > .active > a:hover,
+.navbar .nav > .active > a:focus {
+  color: #424242;
+}
+
+li.dropdown{
+    font-size: 1px;
+}
+
 .globalNav{
   position:fixed;
   width:100%;
@@ -431,27 +459,109 @@ form.workshop > table{
     width: 640px;
 }
 
-.globalNav_ul {
+/*.globalNav_ul {
     display: table;
     width: 94%;
     height: 45px;
     float: left;
     table-layout: fixed;
     overflow: visible;
+}*/
+
+.globalNav_ul{
+  *zoom: 1;
+  list-style-type: none;
+  width: 640px;
+  margin: auto;
+  padding: 0;
 }
 
-.globalNavItem {
+.globalNav_ul:before, .globalNav_ul:after{
+    content: "";
+    display: table;
+}
+
+.globalNav_ul:after{
+    clear: both;
+}
+
+.globalNav_ul li{
+  position: relative;
+  width: 16%;
+  float: left;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.globalNav_ul li a{
+  display: block;
+  margin: 0;
+  padding: 17px 0 13px;
+  color: #787878;
+  font-size: 9px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.globalNav_ul li ul{
+  list-style: none;
+  position: absolute;
+  z-index: 9999;
+  top: 100%;
+  left: 0;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.globalNav_ul li ul li{
+  width: 100%;
+  overflow: hidden;
+  height: 0;
+  transition:.2s;
+  background-color: #f2f1ef;
+  line-height: 1.2;
+}
+
+.globalNav_ul li:hover ul li{
+  overflow: visible;
+  height: 45px;
+  background: #f2f1ef;
+  height: 100%;
+  border:0.5px outset #787878;
+}
+
+.globalNav_ul li ul a{
+  padding: 8px;
+  text-align: left;
+}
+
+/*
+.globalNav_ul li:hover > a{
+  background: #fbfaf8;
+}*/
+
+.globalNav_ul li a:hover{
+  background: #fbfaf8;
+  border-bottom: 2px solid #5f9ea0;
+  color: #5f9ea0;
+
+}
+
+
+/*.globalNavItem {
     display: table-cell;
     height: 45px;
     list-style: none;
-}
+}*/
 
-.globalNavItem_group {
+/*.globalNavItem_group {
     position: relative;
     height: 45px;
-}
+}*/
 
-.globalNavItem_btn {
+/*.globalNavItem_btn {
     border-bottom: 2px solid #eee;
     color: #787878;
     display: block;
@@ -489,7 +599,7 @@ form.workshop > table{
     padding: 0 1px;
 }
 
-.globalNavItem_sub {
+.globalNavItem_sub{
     display: none;
     position: absolute;
     width: 170px;
@@ -529,10 +639,10 @@ form.workshop > table{
 
 .globalNavItem_sub > li > a:hover, .globalNavItem_sub > li > a:focus {
     background: #fbfaf8;
-    color: #660098;
+    color: #5f9ea0;
 }
-
-globalNavItem_btn-pulldown {
+*/
+.globalNavItem_btn-pulldown {
     position: relative;
     padding: 0 15px 0 0;
     height: 45px;
@@ -557,6 +667,7 @@ globalNavItem_btn-pulldown {
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
+
 
 .topMainVis {
     position: relative;
