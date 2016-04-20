@@ -487,7 +487,7 @@ form.workshop > table{
 
 .globalNav_ul li{
   position: relative;
-  width: 16%;
+  width: 20%;
   float: left;
   margin: 0;
   padding: 0;
@@ -499,7 +499,7 @@ form.workshop > table{
   margin: 0;
   padding: 17px 0 13px;
   color: #787878;
-  font-size: 9px;
+  font-size: 11px;
   text-decoration: none;
   font-weight: bold;
 }
@@ -529,7 +529,7 @@ form.workshop > table{
   height: 45px;
   background: #f2f1ef;
   height: 100%;
-  border:0.5px outset #787878;
+  border:1px outset #787878;
 }
 
 .globalNav_ul li ul a{
