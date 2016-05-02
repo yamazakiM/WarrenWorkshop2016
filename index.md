@@ -32,8 +32,8 @@ layout: default
 <li><strong>Kshitij Khatri</strong> / Boston University, USA </li>
 <li><strong>Matthew Campbell</strong> / Macquarie University, Australia</li>
 <li><strong>Michael Tiemeyer</strong> / The University of Georgia, USA</li>
-<li><strong>Nicolle Packer</strong> /  Macquarie University, Australia</li>
 <li><strong>Niclas Karlsson</strong> / University of Gothenburg, Sweden</li>
+<li><strong>Nicolle Packer</strong> /  Macquarie University, Australia</li>
 <li><strong>Rene Ranzinger</strong> / CCRC, The University of Georgia, USA</li>
 <li><strong>Robert Woods</strong> / CCRC, The University of Georgia, USA</li>
 <li><strong>Simon North</strong> /  Imperial College London, UK</li>
