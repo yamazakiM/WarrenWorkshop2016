@@ -43,7 +43,7 @@ layout: default
     The route begins on the western façade of the Administration Building, passing through the main spine of　the campus extending to the Northern Campus area before coming back on the same route.<br>
     Please use <a href="http://www.oia.hokudai.ac.jp/maps/?p=sapporo">Campus Map</a> and click ‘Shuttle Bus Stops’ from the menu located on the right hand-side of the screen.<br>
    <ul>
-      <li><a href="https://www.oia.hokudai.ac.jp/wp-content/uploads/2013/08/5.2013-Bus-time-tableHokkaido     -University.pdf">Timetable</a> for shuttle bus
+      <li><a href="https://www.oia.hokudai.ac.jp/wp-content/uploads/2013/08/5.2013-Bus-time-tableHokkaido-University.pdf">Timetable</a> for shuttle bus
       </li>
    </ul>
     </p>
