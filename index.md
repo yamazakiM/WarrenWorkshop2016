@@ -19,12 +19,15 @@ layout: default
 
 <h3>Speakers</h3>
 <ul>
+<li><strong>Atsushi Kuno</strong> / National Institute of Advanced Industrial Science and Technology, Japan</li>
 <li><strong>Carlito Lebrilla</strong> / University of California, Davis, USA</li>
 <li><strong>Erdmann Rapp</strong> / Max Planck Institute for Dynamics of Complex Technical Systems, Germany</li>
 <li><strong>Frederique Lisacek</strong> / Swiss Institue of Bioinformatics, Switzerland</li>
 <li><strong>Gavin Davey</strong> / Trinity College Dublin, Ireland</li>
 <li><strong>Gerald Hart</strong> / Johns Hopkins University, USA</li>
 <li><strong>Henrik Clausen</strong> / University of Copenhagen, Denmark</li>
+<li><strong>Hiroyuki Kaji</strong> / National Institute of Advanced Industrial Science and Technology, Japan</li>
+<li><strong>Hisashi Narimatsu</strong> / National Institute of Advanced Industrial Science and Technology, Japan</li>
 <li><strong>Jianguo Gu</strong> / Tohoku Medical and Pharmaceutical University, Japan</li>
 <li><strong>Jianxin Gu</strong> / Shanghai Medical College of Fudan University, China</li>
 <li><strong>Jim Paulson</strong> / The Scripps Research Institute, USA</li>
@@ -32,8 +35,8 @@ layout: default
 <li><strong>Kshitij Khatri</strong> / Boston University, USA </li>
 <li><strong>Matthew Campbell</strong> / Macquarie University, Australia</li>
 <li><strong>Michael Tiemeyer</strong> / The University of Georgia, USA</li>
-<li><strong>Niclas Karlsson</strong> / University of Gothenburg, Sweden</li>
 <li><strong>Nicolle Packer</strong> /  Macquarie University, Australia</li>
+<li><strong>Niclas Karlsson</strong> / University of Gothenburg, Sweden</li>
 <li><strong>Rene Ranzinger</strong> / CCRC, The University of Georgia, USA</li>
 <li><strong>Robert Woods</strong> / CCRC, The University of Georgia, USA</li>
 <li><strong>Simon North</strong> /  Imperial College London, UK</li>
