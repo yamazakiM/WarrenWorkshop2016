@@ -28,9 +28,9 @@ layout: default
 <li><strong>Henrik Clausen</strong> / University of Copenhagen, Denmark</li>
 <li><strong>Hiroyuki Kaji</strong> / National Institute of Advanced Industrial Science and Technology, Japan</li>
 <li><strong>Hisashi Narimatsu</strong> / National Institute of Advanced Industrial Science and Technology, Japan</li>
+<li><strong>James Paulson</strong> / The Scripps Research Institute, USA</li>
 <li><strong>Jianguo Gu</strong> / Tohoku Medical and Pharmaceutical University, Japan</li>
 <li><strong>Jianxin Gu</strong> / Shanghai Medical College of Fudan University, China</li>
-<li><strong>Jim Paulson</strong> / The Scripps Research Institute, USA</li>
 <li><strong>Kay-Hooi Khoo</strong> / Institute of Biological Chemistry, Academia Sinica, Taiwan  </li>
 <li><strong>Kshitij Khatri</strong> / Boston University, USA </li>
 <li><strong>Matthew Campbell</strong> / Macquarie University, Australia</li>
