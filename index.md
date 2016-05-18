@@ -31,7 +31,7 @@ layout: default
 <li><strong>James Paulson</strong> / The Scripps Research Institute, USA</li>
 <li><strong>Jianguo Gu</strong> / Tohoku Medical and Pharmaceutical University, Japan</li>
 <li><strong>Jianxin Gu</strong> / Shanghai Medical College of Fudan University, China</li>
-<li><strong>Jyunichi Furukawa</strong> / Hokkaido University, Japan</li>
+<li><strong>Junichi Furukawa</strong> / Hokkaido University, Japan</li>
 <li><strong>Kay-Hooi Khoo</strong> / Institute of Biological Chemistry, Academia Sinica, Taiwan  </li>
 <li><strong>Kiyoko Aoki-Kinoshita </strong> / Soka University, Japan </li>
 <li><strong>Kshitij Khatri</strong> / Boston University, USA </li>
@@ -42,7 +42,7 @@ layout: default
 <li><strong>Rene Ranzinger</strong> / CCRC, The University of Georgia, USA</li>
 <li><strong>Robert Woods</strong> / CCRC, The University of Georgia, USA</li>
 <li><strong>Simon North</strong> /  Imperial College London, UK</li>
-<li><strong>Takumi Suzuki</strong> /  RIKEN, Japan</li>
+<li><strong>Tadashi Suzuki</strong> /  RIKEN, Japan</li>
 <li><strong>Tatsushi Toda</strong> /  Kobe University Graduate School of Medicine, Japan</li>
 <li><strong>Ten Feizi</strong> /  Imperial College London, UK</li>
 <li><strong>William York</strong> / CCRC, The University of Georgia, USA</li>
