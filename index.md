@@ -33,6 +33,7 @@ layout: default
 <li><strong>Jianxin Gu</strong> / Shanghai Medical College of Fudan University, China</li>
 <li><strong>Jyunichi Furukawa</strong> / Hokkaido University, Japan</li>
 <li><strong>Kay-Hooi Khoo</strong> / Institute of Biological Chemistry, Academia Sinica, Taiwan  </li>
+<li><strong>Kiyoko Aoki-Kinoshita </strong> / Soka University, Japan </li>
 <li><strong>Kshitij Khatri</strong> / Boston University, USA </li>
 <li><strong>Matthew Campbell</strong> / Macquarie University, Australia</li>
 <li><strong>Michael Tiemeyer</strong> / The University of Georgia, USA</li>
