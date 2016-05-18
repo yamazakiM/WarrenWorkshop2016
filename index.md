@@ -40,6 +40,7 @@ layout: default
 <li><strong>Rene Ranzinger</strong> / CCRC, The University of Georgia, USA</li>
 <li><strong>Robert Woods</strong> / CCRC, The University of Georgia, USA</li>
 <li><strong>Simon North</strong> /  Imperial College London, UK</li>
+<li><strong>Takumi Suzuki</strong> /  RIKEN, Japan</li>
 <li><strong>Tatsushi Toda</strong> /  Kobe University Graduate School of Medicine, Japan</li>
 <li><strong>Ten Feizi</strong> /  Imperial College London, UK</li>
 <li><strong>William York</strong> / CCRC, The University of Georgia, USA</li>
