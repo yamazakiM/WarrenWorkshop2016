@@ -46,7 +46,8 @@ layout: default
 <li><strong>Tatsushi Toda</strong> /  Kobe University Graduate School of Medicine, Japan</li>
 <li><strong>Ten Feizi</strong> /  Imperial College London, UK</li>
 <li><strong>William York</strong> / CCRC, The University of Georgia, USA</li>
-<li><strong>Yan Zhang</strong>  / Shanghai Jiao Tong University, China </li>
+<li><strong>Yan Zhang</strong>  / Shanghai Jiao Tong University, China</li>
+<li><strong>Yoshiki Yamaguchi</strong>  / RIKEN, Japan</li>
 </ul>
 
 <p><small>Link to <a href="http://glycomics.ccrc.uga.edu/warren-workshop/">Warren Workshop V 2014</a><br>
