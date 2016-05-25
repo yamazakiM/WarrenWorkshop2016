@@ -76,7 +76,7 @@ Hokkaido University<br>
 	<span style="padding-left:113px">biomarker for cancer screening"</span>
 	</span>
 	<br>
-	<span style="padding-left:113px">Jianxin Gu</span>
+	<span style="padding-left:113px">Shifang Ren</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">12:05 – 12:30</span>
 	<span style="font-style:italic">"Multilectin assay for glycobiomarker development"</span>
