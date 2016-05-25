@@ -6,6 +6,7 @@ layout: default
 <div id="main_content_wrap" class="outer">
   <section id="main_content" class="inner">
 <h3>Program</h3>
+<hr>
 <p><strong>6<sup>th</sup> Charles Warren Workshop 2016<br>
 Theme of the Workshop: Finding meaning in the ambiguity of glycan structures</strong></p>
 <p>[DATE]<br>
@@ -19,6 +20,7 @@ Hokkaido University<br>
 <br>
 
 <h3>Wednesday August 24, 2016</h3>
+<hr>
 <p>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:00 – 09:30</span>
 	Registration &amp; Poster Placement
@@ -47,16 +49,15 @@ Hokkaido University<br>
 	Chair: TBA
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:00 – 10:25</span>
-	Gerry Hart
-	<!--<span style="font-style:italic">Gerry Hart</span>-->
+	<span style="font-style:italic">"Nutrient Regulation of Signaling &amp; Transcription by O-GlcNAcylation"</span>
 	<br>
-	<!--<span style="padding-left:113px">Gerry Hart</span>
-	<br>-->
+	<span style="padding-left:113px">Gerald Hart</span>
+	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:25 – 10:50</span>
-	James Paulson
+	<span style="font-style:italic">"HIV glycosylation"</span>
 	<br>
-	<!--<span style="padding-left:113px">ames Paulson</span>
-	<br>-->
+	<span style="padding-left:113px">James Paulson</span>
+	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:50 – 11:15</span>
 	<span style="font-style:italic">"Total cellular glycome analysis: Method development and 
 	<br>
@@ -80,10 +81,10 @@ Hokkaido University<br>
 	<span style="padding-left:113px">Jianxin Gu</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">12:05 – 12:30</span>
-	Atsushi Kuno
+	<span style="font-style:italic">"Multilectin assay for glycobiomarker development"</span>
 	<br>
-	<!--<span style="padding-left:113px">Atsushi Kuno</span>
-	<br>-->
+	<span style="padding-left:113px">Atsushi Kuno</span>
+	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">12:30 – 12:40</span>
 	Short Talk
 	<br>
@@ -131,10 +132,11 @@ Hokkaido University<br>
 	Short Talk
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">18:30</span>
-	<span style="padding-left:58px">Workshop Dinner</span>
+	<span style="padding-left:56px">Workshop Dinner</span>
 </p>
 <br>
 <h3>Thursday August 25, 2016</h3>
+<hr>
 <p>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:00 – 09:30</span>
 	Registration
@@ -217,10 +219,10 @@ Hokkaido University<br>
 	<!--<span style="padding-left:113px">Gavin Davey</span>
 	<br>-->
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">13:55 – 14:20</span>
-	Matthew Campbell
+	<span style="font-style:italic">"Introducing IgCarbKB, a human immunoglobulin glyco-atlas"</span>
 	<br>
-	<!--<span style="padding-left:113px">Matthew Campbell</span>
-	<br>-->
+	<span style="padding-left:113px">Matthew Campbell</span>
+	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">14:20 – 14:45</span>
 	Frederique Lisacek
 	<br>
@@ -263,6 +265,7 @@ Hokkaido University<br>
 <br>
 
 <h3>Friday August 26, 2016</h3>
+<hr>
 <p>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:00 – 09:30</span>
 	Registration
@@ -294,9 +297,13 @@ Hokkaido University<br>
 	Coffee Break
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:00 – 11:25</span>
-	Tatsushi Toda<br>
-	<!--<span style="padding-left:113px">Tatsushi Toda</span>
-	<br>-->
+	<span style="font-style:italic">"Identification of a post-translational modification with ribitol-phosphate
+	<br> 
+	<span style="padding-left:113px">and its defect in muscular dystrophy"</span>
+	</span>
+	<br>
+	<span style="padding-left:113px">Tatsushi Toda</span>
+	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:25 – 11:50</span>
 	<span style="font-style:italic">"Can basic science contribute to cure a human genetic disorder?"</span>
 	<br>
@@ -324,11 +331,12 @@ Hokkaido University<br>
 	Discussion for 7th Warren Workshop in 2018
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:00</span>
-	<span style="margin-left:60px">Meeting Adjournment</span>
+	<span style="margin-left:56px">Meeting Adjournment</span>
 </p>
 <br>
 
 <h3>Usage of wireless LAN system at Hokkaido University</h3>
+
 <p>Hokkaido University is connected to eduroam, world-wide roaming access service.<br>
 To use wireless LAN system at Hokkaido University, please install <strong>CA certificate(SCRoot2ca.crt)</strong> on your device at <a href="http://www.hines.hokudai.ac.jp/temporary_LAN/">Hokkaido University Information Network System web site</a> in advance.<br></p>
 <br>
