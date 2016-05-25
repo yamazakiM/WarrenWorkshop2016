@@ -6,7 +6,6 @@ layout: default
 <div id="main_content_wrap" class="outer">
   <section id="main_content" class="inner">
 <h3>Program</h3>
-<hr>
 <p><strong>6<sup>th</sup> Charles Warren Workshop 2016<br>
 Theme of the Workshop: Finding meaning in the ambiguity of glycan structures</strong></p>
 <p>[DATE]<br>
@@ -20,7 +19,6 @@ Hokkaido University<br>
 <br>
 
 <h3>Wednesday August 24, 2016</h3>
-<hr>
 <p>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:00 – 09:30</span>
 	Registration &amp; Poster Placement
@@ -136,7 +134,6 @@ Hokkaido University<br>
 </p>
 <br>
 <h3>Thursday August 25, 2016</h3>
-<hr>
 <p>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:00 – 09:30</span>
 	Registration
@@ -265,7 +262,6 @@ Hokkaido University<br>
 <br>
 
 <h3>Friday August 26, 2016</h3>
-<hr>
 <p>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:00 – 09:30</span>
 	Registration
