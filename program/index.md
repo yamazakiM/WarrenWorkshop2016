@@ -151,7 +151,7 @@ Hokkaido University<br>
 	<br>
 	<span style="padding-left:113px">Kshitij Khatri</span>
 	<br>
-	<span style="display:inline-blck; width=130px; margin-top:10px; margin-right:15px">09:25 – 09:50</span>
+	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:25 – 09:50</span>
 	<span style="font-style:italic">"xCGE-LIF: A powerful Tool in the Glycoanalytical Toolbox"</span>
 	<br>
 	<span style="padding-left:113px">Erdmann Rapp</span>
