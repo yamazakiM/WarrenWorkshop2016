@@ -99,17 +99,17 @@ Hokkaido University<br>
 	<span>Chair: TBA</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:00 – 16:25</span>
-	<span>Carlito Lebrilla</span>
+	<span style="font-style:italic">"Rapid throughput glycomic in analysis of human milk glycoconjugates"</span>
 	<br>
-	<!--<span style="padding-left:113px">Carlito Lebrilla</span>
-	<br>-->
+	<span style="padding-left:113px">Carlito Lebrilla</span>
+	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:25 – 16:50</span>
 	<span>Kay-Hooi Khoo</span>
 	<br>
 	<!--<span style="padding-left:113px">Kay-Hooi Khoo</span>
 	<br>-->
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:50 – 17:15</span>
-	<span>Mike Tiemeyer</span>
+	<span>Michael Tiemeyer</span>
 	<br>
 	<!--<span style="padding-left:113px">Mike Tiemeyer</span>
 	<br>-->
@@ -186,7 +186,7 @@ Hokkaido University<br>
 	<span style="padding-left:113px">Ten Feizi</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:30 – 11:55</span>
-	<span>Rob Woods</span>
+	<span>Robert Woods</span>
 	<br>
 	<!--<span style="padding-left:113px">Rob Woods</span>
 	<br>-->
@@ -234,7 +234,7 @@ Hokkaido University<br>
 	<span>Coffee Break</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">15:10 – 15:35</span>
-	<span>Will York</span>
+	<span>William York</span>
 	<br>
 	<!--<span style="padding-left:113px">Will York</span>
 	<br>-->
@@ -279,7 +279,7 @@ Hokkaido University<br>
 	<!--<span style="padding-left:113px">Henrik Clausen</span>
 	<br>-->
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:55 – 10:20</span>
-	<span>Zhang Yan</span>
+	<span>Yan Zhang</span>
 	<br>
 	<!--<span style="padding-left:113px">Zhang Yan</span>
 	<br>-->
