@@ -122,10 +122,13 @@ Hokkaido University<br>
 	<span style="padding-left:113px">Nicolle Packer</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">17:55 – 18:20</span>
-	<span>Niclas Karlsson</span>
+	<span style="font-style:italic">"Streamlining the O-glycomic LC-MS workflow for clinical and 
 	<br>
-	<!--<span style="padding-left:113px">Niclas Karlsson</span>
-	<br>-->
+	<span style="padding-left:113px">biomedical applications"</span>
+	</span>
+	<br>
+	<span style="padding-left:113px">Niclas Karlsson</span>
+	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">18:20 – 18:30</span>
 	<span>Short Talk</span>
 	<br>
