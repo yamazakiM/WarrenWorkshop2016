@@ -237,9 +237,9 @@ Hokkaido University<br>
 	<span>Coffee Break</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">15:10 – 15:35</span>
-	<span>William York</span>
+	<span>TBA</span>
 	<br>
-	<!--<span style="padding-left:113px">Will York</span>
+	<!--<span style="padding-left:113px">TBA</span>
 	<br>-->
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">15:35 – 16:00</span>
 	<span>Kiyoko F. Aoki-Kinoshita</span>
