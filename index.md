@@ -45,7 +45,7 @@ layout: default
 <li><strong>Tadashi Suzuki</strong> /  RIKEN, Japan</li>
 <li><strong>Tatsushi Toda</strong> /  Kobe University Graduate School of Medicine, Japan</li>
 <li><strong>Ten Feizi</strong> /  Imperial College London, UK</li>
-<li><strong>William York</strong> / CCRC, The University of Georgia, USA</li>
+<!--<li><strong>William York</strong> / CCRC, The University of Georgia, USA</li>-->
 <li><strong>Yan Zhang</strong>  / Shanghai Jiao Tong University, China</li>
 <li><strong>Yoshiki Yamaguchi</strong>  / RIKEN, Japan</li>
 </ul>
