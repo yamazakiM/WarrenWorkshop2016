@@ -51,8 +51,8 @@ layout: default
     &nbsp; &nbsp; &nbsp; - Full name of the presenting author<br>
     &nbsp; &nbsp; &nbsp; - Email address of the presenting author<br>
     &nbsp; &nbsp; &nbsp; - Your preference on the mode of presentation<br>
-    &nbsp; &nbsp; &nbsp; &nbsp; (oral, poster, or bioinformatics hands-on session)<br>
-    &nbsp; &nbsp; &nbsp; - Date you would like your abstract to be considered for presentation.
+    &nbsp; &nbsp; &nbsp; - Date you would like your abstract to be considered for presentation at the stage.<br>
+    &nbsp; &nbsp; &nbsp; &nbsp;(August 24 OR August 25 :please check program for the time of presentation)
   
   </li>
 </ul>
