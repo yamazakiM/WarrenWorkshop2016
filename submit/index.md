@@ -50,7 +50,6 @@ layout: default
     &nbsp; &nbsp; &nbsp; - Title of abstract<br>
     &nbsp; &nbsp; &nbsp; - Full name of the presenting author<br>
     &nbsp; &nbsp; &nbsp; - Email address of the presenting author<br>
-    &nbsp; &nbsp; &nbsp; - Your preference on the mode of presentation<br>
   </li>
 </ul>
 
