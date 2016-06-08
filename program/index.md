@@ -160,10 +160,13 @@ Hokkaido University<br>
 	<span style="padding-left:113px">Erdmann Rapp</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:50 – 10:15</span>
-	<span>Simon North</span>
+	<span style="font-style:italic">"Glycoproteomic studies of Viral, Bacterial and Parasitic
 	<br>
-	<!--<span style="padding-left:113px">Simon North</span>
-	<br>-->
+	<span style="padding-left:113px">glycosylation"</span>
+	<br>
+	</span>
+	<span style="padding-left:113px">Simon North</span>
+	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:15 – 10:40</span>
 	<span style="font-style:italic">"Accurate mass-based large-scale analysis of glycosylation 
 	<br> 
@@ -189,10 +192,10 @@ Hokkaido University<br>
 	<span style="padding-left:113px">Ten Feizi</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:30 – 11:55</span>
-	<span>Robert Woods</span>
+	<span style="font-style:italic">"Predicting N-glycan processing based on enzyme-glycan accessibility"</span>
 	<br>
-	<!--<span style="padding-left:113px">Rob Woods</span>
-	<br>-->
+	<span style="padding-left:113px">Robert Woods</span>
+	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:55 – 12:20</span>
 	<span style="font-style:italic">"Understanding glycan dynamics and interaction by NMR and
 	<br>
