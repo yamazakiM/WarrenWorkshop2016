@@ -10,15 +10,23 @@ layout: default
 
 <ul class="instraction">
   <li>
-   1. Register to attend  Warren Workshop VI and make payment before submitting abstract.<br>
-   &nbsp;  &nbsp; If you have not registered or made payment, please go to <a href="{{site.url}}/registrationForm">registration page.</a>
+    1. Register to attend  Warren Workshop VI and make payment before submitting<br> 
+   &nbsp;  &nbsp; &nbsp;the abstract.If you have not registered or made payment, please go to<br>
+   &nbsp;  &nbsp; &nbsp;<a href="{{site.url}}/registrationForm">registration page.</a>
   </li>
   <br>
   
   <li>
    2. Please use the downloadable MS Word file as a template and prepare abstract.</li>
-   <a href="{{site.url}}/images/AbstractTemplate.docx" class="downloadAbstract">
-     <input id="button_submit_instraction" class="button_submit" type="button" alt="submit" value="Download Abstract Template Form">
+   &nbsp;- MS Word template file for <strong>oral</strong> and <strong>poster</strong> session.<br>
+   <a href="{{site.url}}/images/AbstractTemplate_Oral,Poster.docx" class="downloadAbstract">
+     <input id="button_submit_instraction" class="button_submit" type="button" alt="submit" value="Download Abstract Template Form (Oral, Poster)">
+   </a>
+  <br>
+  <br>
+   &nbsp; -MS Word template file for <strong>bioinformatics hands-on</strong> session.<br>
+   <a href="{{site.url}}/images/AbstractTemplate_Handson.docx" class="downloadAbstract">
+     <input id="button_submit_instraction" class="button_submit" type="button" alt="submit" value="Download Abstract Template Form (Bioinformatics hands-on)">
    </a>
   <br>
   <br>
@@ -29,12 +37,12 @@ layout: default
     &nbsp;- If your abstract is for poster session, save file as <br>
     &nbsp; &nbsp; &nbsp; &nbsp;<strong>“Presenter’sLastnameFirstname_poster.docx”</strong><br>
     &nbsp;- If your abstract is for bioinformatics hands-on session, save file as<br>
-    &nbsp; &nbsp; &nbsp; &nbsp;<strong>“Presenter’sLastnameFirstname_bio.docx”</strong>
+    &nbsp; &nbsp; &nbsp; &nbsp;<strong>“Presenter’sLastnameFirstname_handson.docx”</strong>
   </li>
   <br>
   <li>
-    4.	Convert file extension from WORD (finename.docx) to <strong>PDF (finename.pdf)</strong> before submit the <br>
-     &nbsp; &nbsp; &nbsp;abstract.
+    4.	Convert file extension from WORD (finename.docx) to <strong>PDF (finename.pdf)</strong> before<br>
+     &nbsp; &nbsp; &nbsp; submit the abstract.
   </li>
   <br>
   <li>
