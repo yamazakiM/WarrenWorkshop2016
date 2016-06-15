@@ -6,7 +6,8 @@ layout: default
 <div id="main_content_wrap" class="outer">
   <section id="main_content" class="inner">
 <h3>Apply for Visa</h3>
-  <p>In order to prepare the official documents for you to apply for a Visa, please e-mail us following documents:</p>
+  <p>Participants who have not yet sent any documents for visa are strongly recommended to prepare and send the necessary documents to our office as soon as possible. While our office will do our utmost to expedite the issuing of ‘Documents from Japan’, please understand that we cannot guarantee that the processing of your visa application at the Japanese embassy/consulate in your country will be completed in time for your planned departure.<br>
+  In order to prepare the official documents for you to apply for a Visa, please e-mail us following documents:</p>
   <ul>
   <li>Visa Questionnaire<br>
   Download MS word file as a template and fill in the questionnaire.<br>
