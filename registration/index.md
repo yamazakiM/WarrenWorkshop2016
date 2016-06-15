@@ -31,8 +31,17 @@ layout: default
    <h4 class="registration">Abstract submission</h4>
   <ul>
   <li>To submit abstract, please download MS word file as a template.</li> 
-   <a href="{{site.url}}/images/AbstractTemplate.docx"><input id="button_submit" class="button_submit" type="button" alt="submit" value="Download Abstract Template Form"></a>
-     </ul><br>
+  &nbsp;- MS Word template file for <strong>oral</strong> and <strong>poster</strong> session.<br>
+   <a href="{{site.url}}/images/AbstractTemplate_Oral,Poster.docx"><input id="button_submit" class="button_submit" type="button" alt="submit" value="Download Abstract Template Form (Oral, Poster)">
+   </a>
+   <br>
+   <br>
+   &nbsp; -MS Word template file for <strong>bioinformatics hands-on</strong> session.<br>
+   <a href="{{site.url}}/images/AbstractTemplate_Handson.docx" class="downloadAbstract">
+     <input id="button_submit_instraction" class="button_submit" type="button" alt="submit" value="Download Abstract Template Form (Bioinformatics hands-on)">
+   </a>
+  </ul>
+  <br>
      
    <ul>
    <li>After download a template, please click "Submit Abstract" button and follow the instractions.</li>
