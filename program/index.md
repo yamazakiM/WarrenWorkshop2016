@@ -351,7 +351,6 @@ Hokkaido University<br>
 	<br>
 	To use wireless LAN system at Hokkaido University, please install <strong>CA certificate(SCRoot2ca.crt)</strong> on your device at <a href="http://www.hines.hokudai.ac.jp/temporary_LAN/">Hokkaido University Information Network System web site</a> in advance.
 	<br>
-</p>
 <br>
 <br>
 
