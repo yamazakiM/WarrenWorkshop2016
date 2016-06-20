@@ -352,6 +352,3 @@ Hokkaido University<br>
 	<br>
 <br>
 <br>
-
- </section>
-</div>
