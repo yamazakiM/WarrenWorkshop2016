@@ -229,10 +229,10 @@ Hokkaido University<br>
 	<span style="padding-left:113px">Matthew Campbell</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">14:20 – 14:45</span>
-	<span>Frederique Lisacek</span>
+	<span style="font-style:italic">"Glycomics@ExPASy: Bridging the gap"</span>
 	<br>
-	<!--<span style="padding-left:113px">Frederique Lisacek</span>
-	<br>-->
+	<span style="padding-left:113px">Frederique Lisacek</span>
+	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">14:45 – 14:55</span>
 	<span>Short Talk</span>
 	<br>
@@ -280,10 +280,13 @@ Hokkaido University<br>
 	<span>Chair: TBA</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:30 – 09:55</span>
-	<span>Henrik Clausen</span>
+	<span style="font-style:italic">"Shaping Glycans by DNA Scissors and Turning Glycosciences Into
+	<br> 
+	<span style="padding-left:113px"> Lego Toying"</span>
+	</span>
 	<br>
-	<!--<span style="padding-left:113px">Henrik Clausen</span>
-	<br>-->
+	<span style="padding-left:113px">Henrik Clausen</span>
+	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:55 – 10:20</span>
 	<span>Yan Zhang</span>
 	<br>
@@ -315,8 +318,9 @@ Hokkaido University<br>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:50 – 13:00</span>
 	<span>Lunch</span>
-	<br>
+</p>
 
+<p>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px"><strong>Discussion</strong>
 	<br>
 	<span>Chair: Kiyoko F. Aoki-Kinoshita</span>
