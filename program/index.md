@@ -266,7 +266,7 @@ Hokkaido University<br>
 	Poster (Odd numbers) and Bioinformatics Hands-on Session
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">Sapporo Beer Garden on your own</span>
-</p>
+
 <br>
 
 <h3>Friday August 26, 2016</h3>
@@ -340,7 +340,6 @@ Hokkaido University<br>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:00</span>
 	<span style="margin-left:56px">Meeting Adjournment</span>
-</p>
 <br>
 <br>
 
