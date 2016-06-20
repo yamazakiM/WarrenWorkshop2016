@@ -18,7 +18,7 @@ layout: default
             
   <h3 id="location">1. From New Chitose Airport to Sapporo</h3> 
     <p><strong>Train</strong><br>
-      JR Rapid Airport Line departs from New Chitose Airport to Sapporo Station (approximately 40 minitues) every 15 minites.</p>
+      JR Rapid Airport Line departs from New Chitose Airport to Sapporo Station (approximately 40 minitues)           every 15 minites.</p>
 
   <p><strong>Highway Bus</strong><br>
       The Chuo Bus / Hokuto Kotsu Bus departs from New Chitose Airport to Sapporo Station (approximately 70   minitues) every 15 minitues.</p>
@@ -38,7 +38,7 @@ layout: default
       </p>
       <br>
 
-  <h3 id="location">3. From main gate of Hokkaido University to Frontier Research in Applied Sciences Building</h3>
+<h3 id="location">3. From main gate of Hokkaido University to Frontier Research in Applied Sciences Building</h3>
   <p><strong>Shuttle Bus</strong><br>
     A free campus shuttle service operates during semester from Monday to Friday (excluding public　holidays.) Please be aware that a shuttle bus can carry only approximately 20 passengers.<br> 
     The route begins on the western façade of the Administration Building, passing through the main spine of　the campus extending to the Northern Campus area before coming back on the same route.<br>
@@ -47,9 +47,10 @@ layout: default
       <li><a href="https://www.oia.hokudai.ac.jp/wp-content/uploads/2013/08/5.2013-Bus-time-tableHokkaido-University.pdf">Timetable</a> for shuttle bus
       </li>
    </ul>
-    </p>
+  </p>
     <br>
 
+  </section>
 </div>
 
 
