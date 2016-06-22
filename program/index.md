@@ -240,16 +240,11 @@ Hokkaido University<br>
 	<span>Coffee Break</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">15:10 – 15:35</span>
-	<span>TBA</span>
-	<br>
-	<!--<span style="padding-left:113px">TBA</span>
-	<br>-->
-	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">15:35 – 16:00</span>
 	<span>Kiyoko F. Aoki-Kinoshita</span>
 	<br>
 	<!--<span style="padding-left:113px">Kiyoko F. Aoki-Kinoshita</span>
 	<br>-->
-	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:00 – 16:25</span>
+	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">15:35 – 16:00</span>
 	<span style="font-style:italic">"GRITS Toolbox – An extendible software platform for the processing
 	<br>
 	<span style="padding-left:113px">and archiving of glycomics data"</span>
@@ -257,12 +252,17 @@ Hokkaido University<br>
 	<br>
 	<span style="padding-left:113px">Rene Ranzinger</span>
 	<br>
-	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:25 – 16:35</span>
+	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:00 – 16:10</span>
 	<span>Short Talk</span>
 	<br>
 	<!--<span style="padding-left:113px">TBA</span>
 	<br>-->
-	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:35 – 18:30</span>
+	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:10 – 16:25</span>
+	<span style="font-style:italic">"MIRAGE Working Group Report"</span>
+	<br>
+	<span style="padding-left:113px">Carsten Kettner</span>
+	<br>
+	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:30 – 18:30</span>
 	<span>Poster (Odd numbers) and Bioinformatics Hands-on Session</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">Sapporo Beer Garden on your own</span>
