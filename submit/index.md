@@ -46,7 +46,7 @@ layout: default
   </li>
   <br>
   <li>
-    5. Email the abstract to the following email address before <strong>June 30, 2016</strong>:<br>
+    5. Email the abstract to the following email address before <strong><del>June 30, 2016</del>&nbsp;&nbsp;July 15, 2016</strong>:<br>
     <img class="abstract" alt="warrenworkshop_email.png" src="../../images/warrenworkshop_email.png" border="0">
     &nbsp; <strong>Indicate the following information with your submission via email:</strong><br>
     &nbsp; &nbsp; &nbsp; <strong>Subject Line</strong><br>
