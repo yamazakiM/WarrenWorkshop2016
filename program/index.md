@@ -170,7 +170,7 @@ Hokkaido University<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:15 – 10:40</span>
 	<span style="font-style:italic">"Accurate mass-based large-scale analysis of glycosylation 
 	<br> 
-	<span style="padding-left:113px">site-specific glycan heterogeneity"</span>
+	<span style="padding-left:113px">site-specific glycan heterogeneity of complex protein mixture"</span>
 	</span>
 	<br>
 	<span style="padding-left:113px">Hiroyuki Kaji</span>
