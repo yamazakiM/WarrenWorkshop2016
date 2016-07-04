@@ -265,7 +265,9 @@ Hokkaido University<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:30 – 18:30</span>
 	<span>Poster (Odd numbers) and Bioinformatics Hands-on Session</span>
 	<br>
-	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">Sapporo Beer Garden on your own</span>
+	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">Sapporo Beer Garden on your own.<br>
+	Please email organizers if you plan on going by <strong>July 15</strong> as space is limited and reservations are required.
+	</span>
 </p>
 <br>
 
