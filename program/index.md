@@ -45,24 +45,21 @@ Hokkaido University<br>
 <p><strong>Session 1: Glycobiology</strong>
 	<br>
 	<span>Chair: TBA</span>
-	<br>
+		<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:00 – 10:25</span>
+	<span style="font-style:italic">"Eliminating Ambiguity in Glycan Sequencing by MS<sup style="vertical-align:super">n</sup> Disassembly "</span>
+	<br>
+	<span style="padding-left:113px">Vern Reinhold</span>
+	<br>
+	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:25 – 10:50</span>
 	<span style="font-style:italic">"Nutrient Regulation of Signaling &amp; Transcription by O-GlcNAcylation"</span>
 	<br>
 	<span style="padding-left:113px">Gerald Hart</span>
 	<br>
-	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:25 – 10:50</span>
+	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:50 – 11:15</span>
 	<span style="font-style:italic">"HIV glycosylation"</span>
 	<br>
 	<span style="padding-left:113px">James Paulson</span>
-	<br>
-	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:50 – 11:15</span>
-	<span style="font-style:italic">"Total cellular glycome analysis: Method development and 
-	<br>
-	<span style="padding-left:113px">its application to biological samples"</span>
-	</span>
-	<br>
-	<span style="padding-left:113px">Jun-ichi Furukawa</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:15 – 11:25</span>
 	<span>Short Talk</span>
@@ -71,6 +68,14 @@ Hokkaido University<br>
 	<span>Coffee Break</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:40 – 12:05</span>
+	<span style="font-style:italic">"Total cellular glycome analysis: Method development and 
+	<br>
+	<span style="padding-left:113px">its application to biological samples"</span>
+	</span>
+	<br>
+	<span style="padding-left:113px">Jun-ichi Furukawa</span>
+	<br>
+	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">12:05 – 12:30</span>
 	<span style="font-style:italic">"Distribution of IgG galactosylation as a promising
 	<br>
 	<span style="padding-left:113px">biomarker for cancer screening"</span>
@@ -78,15 +83,12 @@ Hokkaido University<br>
 	<br>
 	<span style="padding-left:113px">Shifang Ren</span>
 	<br>
-	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">12:05 – 12:30</span>
+	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">12:30 – 12:55</span>
 	<span style="font-style:italic">"Multilectin assay for glycobiomarker development"</span>
 	<br>
 	<span style="padding-left:113px">Atsushi Kuno</span>
 	<br>
-	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">12:30 – 12:40</span>
-	<span>Short Talk</span>
-	<br>
-	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">12:40 – 14:00</span>
+	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">12:55 – 14:00</span>
 	<span>Lunch</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">14:00 – 16:00</span>
@@ -104,15 +106,17 @@ Hokkaido University<br>
 	<span style="padding-left:113px">Carlito Lebrilla</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:25 – 16:50</span>
-	<span>Kay-Hooi Khoo</span>
+	<span style="font-style:italic">"The necessity of focused clarity amidst the glycomic ambiguity"</span>
 	<br>
-	<!--<span style="padding-left:113px">Kay-Hooi Khoo</span>
-	<br>-->
+	<span style="padding-left:113px">Kay-Hooi Khoo</span>
+	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:50 – 17:15</span>
-	<span>Michael Tiemeyer</span>
+	<span style="font-style:italic">"Leveraging pluripotency to define cell-specific features within <br>
+	<span style="padding-left:113px">multidimensional glycomic analyses"</span>
+	</span>
 	<br>
-	<!--<span style="padding-left:113px">Mike Tiemeyer</span>
-	<br>-->
+	<span style="padding-left:113px">Michael Tiemeyer</span>
+	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">17:15 - 17:30</span>
 	<span>Coffee Break</span>
 	<br>
