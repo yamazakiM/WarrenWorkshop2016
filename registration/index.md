@@ -50,7 +50,7 @@ layout: default
    
    <ul>
     <li id="registration">Abstract submission deadline<br>
-    <strong><del>June 30, 2016</del>&nbsp;&nbsp;July 15, 2016</strong></li>
+    <strong><del style="color:red">June 30, 2016</del>&nbsp;&nbsp;July 15, 2016</strong></li>
   </ul>
   <!--<ul>
   <li>March 1, 2016 - June 30, 2016</li>
