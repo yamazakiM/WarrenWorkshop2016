@@ -62,7 +62,7 @@ Hokkaido University<br>
 	<span style="padding-left:113px">its application to biological samples"</span>
 	</span>
 	<br>
-	<span style="padding-left:113px">Junichi Furukawa</span>
+	<span style="padding-left:113px">Jun-ichi Furukawa</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:15 – 11:25</span>
 	<span>Short Talk</span>
