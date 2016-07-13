@@ -355,7 +355,7 @@ Hokkaido University<br>
 <p>
 	Hokkaido University is connected to eduroam, world-wide roaming access service.
 	<br>
-	To use wireless LAN system at Hokkaido University, please install <strong>CA certificate(SCRoot2ca.crt)</strong> on your device at <a href="http://www.hines.hokudai.ac.jp/temporary_LAN/">Hokkaido University Information Network System web site</a> in advance.
+	<!--To use wireless LAN system at Hokkaido University, please install <strong>CA certificate(SCRoot2ca.crt)</strong> on your device at <a href="http://www.hines.hokudai.ac.jp/temporary_LAN/">Hokkaido University Information Network System web site</a> in advance.-->
 	<br>
 </p>
 <br>
