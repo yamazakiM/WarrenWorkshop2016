@@ -11,7 +11,7 @@ Theme of the Workshop: Finding meaning in the ambiguity of glycan structures</st
 <p>[DATE]<br>
 August 24 - 26, 2016<br>
 [PLACE]<br>
-<a href="http://www.oia.hokudai.ac.jp/maps/?p=sapporo">Frontier Research in Applied Sciences Building</a><br>
+<a href="http://www.oia.hokudai.ac.jp/maps/?id=133">Frontier Research in Applied Sciences Building</a><br>
 Graduate School and School of Engineering<br>
 Hokkaido University<br>
 <a href="https://goo.gl/maps/JtP1MdrwH5U2">Kita 13, Nishi 8, Kita-ku, Sapporo, Hokkaido 060-8628, Japan</a>
