@@ -62,7 +62,7 @@ Hokkaido University<br>
 	<span style="padding-left:113px">James Paulson</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:15 – 11:25</span>
-	<span>Short Talk</span>
+	<span>Lightning Talk 1</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:25 – 11:40</span>
 	<span>Coffee Break</span>
@@ -134,7 +134,7 @@ Hokkaido University<br>
 	<span style="padding-left:113px">Niclas Karlsson</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">18:20 – 18:30</span>
-	<span>Short Talk</span>
+	<span>Lightning Talk 2</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">18:30</span>
 	<span style="padding-left:56px">Workshop Dinner</span>
@@ -180,7 +180,7 @@ Hokkaido University<br>
 	<span style="padding-left:113px">Hiroyuki Kaji</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:40 - 10:50</span>
-	<span>Short Talk</span>
+	<span>Lightning Talk 3</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:50 – 11:05</span>
 	<span>Coffee Break</span>
@@ -209,7 +209,7 @@ Hokkaido University<br>
 	<span style="padding-left:113px">Yoshiki Yamaguchi</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">12:20 – 12:30</span>
-	<span>Short Talk</span>
+	<span>Lightning Talk 4</span>
 	<br>
 	<!--<span style="padding-left:113px">Short Talk</span>
 	<br>-->
@@ -238,7 +238,7 @@ Hokkaido University<br>
 	<span style="padding-left:113px">Frederique Lisacek</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">14:45 – 14:55</span>
-	<span>Short Talk</span>
+	<span>Lightning Talk 5</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">14:55 – 15:10</span>
 	<span>Coffee Break</span>
@@ -257,7 +257,7 @@ Hokkaido University<br>
 	<span style="padding-left:113px">Rene Ranzinger</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:00 – 16:10</span>
-	<span>Short Talk</span>
+	<span>Lightning Talk 6</span>
 	<br>
 	<!--<span style="padding-left:113px">TBA</span>
 	<br>-->
