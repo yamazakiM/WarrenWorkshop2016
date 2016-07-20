@@ -223,10 +223,10 @@ Hokkaido University<br>
 	<span>Chair: TBA</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">13:30 – 13:55</span>
-	<span>Gavin Davey</span>
+	<span style="font-style:italic">"Glycologue: a new modeling framework for O-linked glycosylation"</span>
 	<br>
-	<!--<span style="padding-left:113px">Gavin Davey</span>
-	<br>-->
+	<span style="padding-left:113px">Gavin Davey</span>
+	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">13:55 – 14:20</span>
 	<span style="font-style:italic">"Introducing IgCarbKB, a human immunoglobulin glyco-atlas"</span>
 	<br>
