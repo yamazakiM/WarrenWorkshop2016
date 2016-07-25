@@ -21,7 +21,7 @@ Hokkaido University<br>
 <h3>Wednesday August 24, 2016</h3>
 <p>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:00 – 09:30</span>
-	<span>Registration &amp; Poster Placement (Even numbers)</span>
+	<span>Registration &amp; Poster Placement (Odd numbers)</span>
 	<br>
 	<br>
 	<strong>Welcome and Workshop Aims</strong>
@@ -92,7 +92,7 @@ Hokkaido University<br>
 	<span>Lunch</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">14:00 – 16:00</span>
-	<span>Poster Session (Even numbers)</span>
+	<span>Poster Session (Odd numbers)</span>
 </p>
 
 <p>
@@ -143,7 +143,7 @@ Hokkaido University<br>
 <h3>Thursday August 25, 2016</h3>
 <p>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:00 – 09:30</span>
-	<span>Registration &amp; Poster Placement (Odd numbers)</span>
+	<span>Registration &amp; Poster Placement (Even numbers)</span>
 	<br>
 	<br>
 	<strong>Session 3: Analytics</strong>
@@ -267,7 +267,7 @@ Hokkaido University<br>
 	<span style="padding-left:113px">Carsten Kettner</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:30 – 18:30</span>
-	<span>Poster (Odd numbers) and Bioinformatics Hands-on Session</span>
+	<span>Poster (Even numbers) and Bioinformatics Hands-on Session</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">Sapporo Beer Garden on your own.<br>
 	Please email organizers if you plan on going by <strong>July 15</strong> as space is limited and reservations are required.
