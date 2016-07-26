@@ -38,7 +38,7 @@ layout: default
        </p>
        <br>
  
- <h3 id="location">3. From main gate of Hokkaido University to Frontier<br>&nbsp;&nbsp; Research in Applied Sciences Building</h3>
+ <h3 id="location">3. From main gate of Hokkaido University to Frontier<br>&nbsp;&nbsp;&nbsp;Research in Applied Sciences Building</h3>
    <p><strong>Shuttle Bus</strong><br>
      A free campus shuttle service operates during semester from Monday to Friday (excluding public　holidays.) Please be aware that a shuttle bus can carry only approximately 20 passengers.<br> 
      The route begins on the western façade of the Administration Building, passing through the main spine of　the campus extending to the Northern Campus area before coming back on the same route.<br>
