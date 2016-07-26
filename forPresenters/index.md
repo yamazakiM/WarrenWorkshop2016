@@ -18,7 +18,7 @@ layout: default
         <u>Poster Session (Even numbers)</u>
       <br>  
         &nbsp;&nbsp;&nbsp;Day 2 (August 25, Thursday. Poster session: 16:35 to 18:30)<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Please make sure your poster is up/removed according to the following time:
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Please make sure your poster is up/removed according to the following time:<br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Poster placement (Even numbers) during registration 9:00am-9:30am<br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Poster removal after poster session<br>
     </p>
