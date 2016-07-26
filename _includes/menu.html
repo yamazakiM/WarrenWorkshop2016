@@ -5,12 +5,15 @@
        <div id="globalNav_inner clearfix">
             <ul class="globalNav_ul">
                <li class="globalNavItem">
+                 <!--<div class="globalNavItem_group">-->
                     <a class="globalNavItem_btn" href="{{site.url}}/">
                       <span class="globalNavItem_text">HOME</span>
                     </a>
+                 <!--</div>-->
                 </li>
         
                <li class="globalNavItem">
+                  <!--<div class="globalNavItem_group">-->
                     <a class="globalNavItem_btn globalNavItem_btn-pulldown">
                       <span class="globalNavItem_text">LOCATION</span>
                     </a>
@@ -21,27 +24,48 @@
                             </a>
                           </li>
                          <li>
-                            <a href=" http://www.welcome.city.sapporo.jp/?lang=en">
-                              SAPPORO TRAVEL GUIDE
+                            <a href=" http://www.welcome.city.sapporo.jp/?lang=en"> 
+                            <!--<a href="{{site.url}}/sapporoTravelGuide">-->
+                            <!-- Sapporo Travel Guide-->
+                             SAPPORO TRAVEL GUIDE
                             </a>
                           </li>
                           <li>
                             <a href="http://www.oia.hokudai.ac.jp/dhu/">
+                            <!-- Sapporo Travel Guide-->
                              DISCOVER HOKKAIDO UNIVERSITY
                             </a>
                           </li>
+                    <!--</ul>
+                     <ul class="dropdown-menu globalNavItem_sub">-->
                          <li>
                             <a href="{{site.url}}/hotels">
-                             HOTELS
+                            <!-- Hotels-->
+                            HOTELS
                             </a>
                           </li>
                     </ul>
+                  <!--</div>-->
                </li>
                
                <li class="globalNavItem">
-                   <a class="globalNavItem_btn" href="{{site.url}}/program">
-                         <span class="globalNavItem_text">PROGRAM</span>
-                   </a>
+                 <!--<div class="globalNavItem_group">-->
+                       <a class="globalNavItem_btn globalNavItem_btn-pulldown">
+                      <span class="globalNavItem_text">PROGRAM</span>
+                        </a>
+                    <ul class="dropdown-menu globalNavItem_sub">
+                         <li>
+                            <a href="{{site.url}}/program">
+                              DETAILED PROGRAM
+                            </a>
+                          </li> 
+                    
+                         <li>
+                          <a href="{{site.url}}/noticeToParticipants">
+                          NOTICE TO PARTICIPANTS
+                          </a>
+                          </li>
+                    </ul>                    
                    <!-- <ul class="dropdown-menu globalNavItem_sub">
                          <li>
                           <a href="{{site.url}}/abstract">
@@ -52,27 +76,48 @@
                </li>
                
                <li class="globalNavItem">
+                 <!--<div class="globalNavItem_group">-->
                   <a class="globalNavItem_btn globalNavItem_btn-pulldown">
                     <span class="globalNavItem_text">REGISTRATION</span>
                   </a>
                   <ul class="dropdown-menu globalNavItem_sub">
                          <li>
                             <a href="{{site.url}}/registration">
-                              REGISTER
+                            <!-- Register-->
+                             REGISTER &amp;　ABSTRACT SUBMISSION
                             </a>
                           </li>
                          <li>
                             <a href="{{site.url}}/visa">
-                            APPLY FOR VISA
+                            <!-- Apply for Visa-->
+                            VISA INFORMATION
                             </a>
                           </li>
                     </ul>
+                 <!--</div>-->
                </li>
-             
+               
+               <!--<li class="globalNavItem">
+                
+                   <a class="globalNavItem_btn" href="{{site.url}}/hotels">
+                     <span class="globalNavItem_text">HOTELS</span>
+                  </a>
+               </li>-->
+               
                <li class="globalNavItem">
+                <!-- <div class="globalNavItem_group">-->
+                  <a class="globalNavItem_btn" href="{{site.url}}/forPresenters">
+                   <span class="globalNavItem_text">FOR PRESENTERS</span>
+                  </a>
+                 <!--</div>-->
+              </li>
+               
+               <li class="globalNavItem">
+                <!-- <div class="globalNavItem_group">-->
                   <a class="globalNavItem_btn" href="{{site.url}}/contacts">
                    <span class="globalNavItem_text">CONTACTS</span>
                   </a>
+                 <!--</div>-->
               </li>
          </ul>
       </div>
