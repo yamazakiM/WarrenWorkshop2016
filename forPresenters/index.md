@@ -63,7 +63,7 @@ layout: default
 
     <ul>
       <li>
-        Please register at the reception prior to setting up your table.
+        Please register at the reception prior_ setting up your table.
       </li> 
       <li>
         Set up your computer where assigned, which will be indicated in the information desk.
