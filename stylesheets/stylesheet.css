@@ -487,7 +487,7 @@ form.workshop > table{
 
 .globalNav_ul li{
   position: relative;
-  width: 20%;
+  width: 16%;
   float: left;
   margin: 0;
   padding: 0;
@@ -753,6 +753,18 @@ img.contact{
   top:15px;
   box-shadow:none;
 }
+
+img.posterPlacement{
+  display:block;
+  top:5px;
+  box-shadow:none;
+}
+
+img.CA2{
+  display:block;
+  box-shadow:none;
+}
+
 
 #project_theme{
   color:#fff;
