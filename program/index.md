@@ -294,10 +294,10 @@ Hokkaido University<br>
 	<span style="padding-left:113px">Henrik Clausen</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:55 – 10:20</span>
-	<span>Yan Zhang</span>
+	<span style="font-style:italic">"Whether the tumor suppressor p53 has a novel glycosyl-modification"</span>
 	<br>
-	<!--<span style="padding-left:113px">Zhang Yan</span>
-	<br>-->
+	<span style="padding-left:113px">Yan Zhang</span>
+	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:20 – 10:45</span>
 	<span style="font-style:italic">"Roles of N-glycan in epithelial-mesenchymal transition (EMT) and
 	<br>
