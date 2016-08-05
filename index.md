@@ -21,6 +21,7 @@ layout: default
 <ul>
 <li><strong>Atsushi Kuno</strong> / National Institute of Advanced Industrial Science and Technology, Japan</li>
 <li><strong>Carlito Lebrilla</strong> / University of California, Davis, USA</li>
+<li><strong>Carsten Kettner</strong> / Beilstein-Institut, Germany</li>
 <li><strong>Erdmann Rapp</strong> / Max Planck Institute for Dynamics of Complex Technical Systems, Germany</li>
 <li><strong>Frederique Lisacek</strong> / Swiss Institue of Bioinformatics, Switzerland</li>
 <li><strong>Gavin Davey</strong> / Trinity College Dublin, Ireland</li>
@@ -35,7 +36,7 @@ layout: default
 <li><strong>Kiyoko F. Aoki-Kinoshita </strong> / Soka University, Japan </li>
 <li><strong>Kshitij Khatri</strong> / Boston University, USA </li>
 <li><strong>Matthew Campbell</strong> / Macquarie University, Australia</li>
-<li><strong>Michael Tiemeyer</strong> / The University of Georgia, USA</li>
+<li><strong>Michael Tiemeyer</strong> / CCRC, The University of Georgia, USA</li>
 <li><strong>Niclas Karlsson</strong> / University of Gothenburg, Sweden</li>
 <li><strong>Nicolle Packer</strong> /  Macquarie University, Australia</li>
 <li><strong>Rene Ranzinger</strong> / CCRC, The University of Georgia, USA</li>
