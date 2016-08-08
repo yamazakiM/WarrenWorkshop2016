@@ -6,7 +6,7 @@ layout: default
   <div id="main_content_wrap" class="outer">
     <section id="main_content" class="inner">
      <h3 id="location">Location</h3>
-       <p><a href="http://www.oia.hokudai.ac.jp/maps/print.php?id=133">Frontier Research in Applied Sciences                   Building</a><br>
+       <p><a href="https://www.oia.hokudai.ac.jp/maps/?id=133">Frontier Research in Applied Sciences Building</a><br>
            Graduate School and School of Engineering<br>
            Hokkaido University<br>
            <a href="https://goo.gl/maps/JtP1MdrwH5U2">Kita 13, Nishi 8, Kita-ku, Sapporo, Hokkaido 060-8628, Japan</a><br>
