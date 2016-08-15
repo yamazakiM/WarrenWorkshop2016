@@ -13,10 +13,10 @@ layout: default
   <li>To register for Warren Workshop VI, please click "Register" button and fill out the form. No later than <strong>July 31, 2016</strong>.</li>
   <a href="{{site.url}}/registrationForm" class="button_register"><input id="button_register" class="button_register" type="button" alt="register" value="Register"></a>
   </ul><br>
-  <ul>
+  <!--<ul>
   <li>After registration, please make payment. No later than<strong> July 31, 2016</strong>.</li>
   <a href="{{site.url}}/payment"><input id="button_payment" class="button_payment" type="button" alt="payment" value="Payment"></a> 
-   </ul><br>
+   </ul><br>-->
    
  <ul>
    <li id="registration">Registration and payment deadline for Warren Workshop VI 2016<br>
