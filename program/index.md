@@ -44,7 +44,7 @@ Hokkaido University<br>
 
 <p><strong>Session 1: Glycobiology</strong>
 	<br>
-	<span>Chair: TBA</span>
+	<span>Chair: Jianxin Gu</span>
 		<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:00 – 10:25</span>
 	<span style="font-style:italic">"Eliminating Ambiguity in Glycan Sequencing by MS<sup style="vertical-align:super">n</sup> Disassembly "</span>
@@ -98,7 +98,7 @@ Hokkaido University<br>
 <p>
 	<strong>Session 2: Analytics</strong>
 	<br>
-	<span>Chair: TBA</span>
+	<span>Chair: Kshitij Khatri</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:00 – 16:25</span>
 	<span style="font-style:italic">"Rapid throughput glycomic in analysis of human milk glycoconjugates"</span>
@@ -148,7 +148,7 @@ Hokkaido University<br>
 	<br>
 	<strong>Session 3: Analytics</strong>
 	<br>
-	<span>Chair:TBA</span>
+	<span>Chair: Michael Tiemeyer, Kay-Hooi Khoo</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:00 – 09:25</span>	
 	<span style="font-style:italic">"A split-apply-combine approach towards deconvolving the
@@ -220,7 +220,7 @@ Hokkaido University<br>
 <p>
 	<strong>Session 4: Bioinformatics</strong>
 	<br>
-	<span>Chair: TBA</span>
+	<span>Chair: Robert Woods, Yoshiki Yamaguchi</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">13:30 – 13:55</span>
 	<span style="font-style:italic">"Glycologue: a new modeling framework for O-linked glycosylation"</span>
@@ -283,7 +283,7 @@ Hokkaido University<br>
 	<br>
     <strong>Session 5: Glycobiology/Computational Glycobiology</strong>
     <br>
-	<span>Chair: TBA</span>
+	<span>Chair: James Paulson</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:30 – 09:55</span>
 	<span style="font-style:italic">"Shaping Glycans by DNA Scissors and Turning Glycosciences Into
