@@ -98,7 +98,7 @@ Hokkaido University<br>
 <p>
 	<strong>Session 2: Analytics</strong>
 	<br>
-	<span>Chair: Kshitij Khatri</span>
+	<span>Chair: Kshitij Khatri, Nicolle Packer</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:00 – 16:25</span>
 	<span style="font-style:italic">"Rapid throughput glycomic in analysis of human milk glycoconjugates"</span>
