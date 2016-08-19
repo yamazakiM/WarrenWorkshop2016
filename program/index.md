@@ -143,7 +143,7 @@ Hokkaido University<br>
 <h3>Thursday August 25, 2016</h3>
 <p>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">08:30 – 09:00</span>
-	<span>Registration &amp; Poster Placement (Even numbers)</span>
+	<span>Registration</span>
 	<br>
 	<br>
 	<strong>Session 3: Analytics</strong>
