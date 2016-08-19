@@ -21,7 +21,7 @@ Hokkaido University<br>
 <h3>Wednesday August 24, 2016</h3>
 <p>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:00 – 09:30</span>
-	<span>Registration &amp; Poster Placement</span>
+	<span>Registration</span>
 	<br>
 	<br>
 	<strong>Welcome and Workshop Aims</strong>
@@ -32,24 +32,24 @@ Hokkaido University<br>
 	<span style="padding-left:113px">Hisashi Narimatsu</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:40 – 09:50</span>
+	<span style="font-style:italic">History of the Warren Workshop</span>
+	<br>
+	<span style="padding-left:113px">Vernon Reinhold</span>
+	<br>
+	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:50 – 10:00</span>
 	<span style="font-style:italic">Introduction to the Aims of the Meeting</span>
 	<br>
 	<span style="padding-left:113px">Kiyoko F. Aoki-Kinoshita</span>
-	<br>
-	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:50 – 10:00</span>
-	<span style="font-style:italic">History of the Warren Workshop</span>
-	<br>
-	<span style="padding-left:113px">Vern Reinhold</span>
 </p>
 
 <p><strong>Session 1: Glycobiology</strong>
 	<br>
-	<span>Chair: Jianxin Gu</span>
+	<span>Chair: Jianxin Gu, Hisashi Narimatsu</span>
 		<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:00 – 10:25</span>
 	<span style="font-style:italic">"Eliminating Ambiguity in Glycan Sequencing by MS<sup style="vertical-align:super">n</sup> Disassembly "</span>
 	<br>
-	<span style="padding-left:113px">Vern Reinhold</span>
+	<span style="padding-left:113px">Vernon Reinhold</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:25 – 10:50</span>
 	<span style="font-style:italic">"Nutrient Regulation of Signaling &amp; Transcription by O-GlcNAcylation"</span>
@@ -143,7 +143,7 @@ Hokkaido University<br>
 <h3>Thursday August 25, 2016</h3>
 <p>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">08:30 – 09:00</span>
-	<span>Registration</span>
+	<span>Registration &amp; Poster Placement (Even numbers)</span>
 	<br>
 	<br>
 	<strong>Session 3: Analytics</strong>
@@ -283,7 +283,7 @@ Hokkaido University<br>
 	<br>
     <strong>Session 5: Glycobiology/Computational Glycobiology</strong>
     <br>
-	<span>Chair: James Paulson</span>
+	<span>Chair: James Paulson, Tadashi Suzuki</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:30 – 09:55</span>
 	<span style="font-style:italic">"Shaping Glycans by DNA Scissors and Turning Glycosciences Into
