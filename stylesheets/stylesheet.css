@@ -499,7 +499,7 @@ form.workshop > table{
   margin: 0;
   padding: 17px 0 13px;
   color: #787878;
-  font-size: 11px;
+  font-size: 10px;
   text-decoration: none;
   font-weight: bold;
 }
@@ -989,6 +989,11 @@ ul.globalNav_ul{
     font-size: 11px;
   }
 
+section.main-content{
+  margin-left: 1px;
+  margin-right:1px;
+}
+
 }
 /* =====================
     タブレット向け
@@ -1003,6 +1008,10 @@ ul.globalNav_ul{
     margin-left:100%;
 }
  
+section.main-content{
+  margin-left: 1px;
+  margin-right:1px;
+}
 /* タブレット向けここまで */ }
  
 /* =====================
@@ -1016,6 +1025,10 @@ ul.globalNav_ul{
 #pageTop a {
     left:-68px;
     margin-left:100%;
+}
+section.main-content{
+  margin-left: 1px;
+  margin-right:1px;
 }
  
 /* スマホ向けここまで */ }
