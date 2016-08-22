@@ -42,24 +42,29 @@ Hokkaido University<br>
 	<span style="padding-left:113px">Kiyoko F. Aoki-Kinoshita</span>
 </p>
 
-<p><strong>Session 1: Glycobiology</strong>
+<p>
+	<strong>Session 1: Glycobiology</strong>
 	<br>
 	<span>Chair: Jianxin Gu, Hisashi Narimatsu</span>
-		<br>
-	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:00 – 10:25</span>
-	<span style="font-style:italic">"Eliminating Ambiguity in Glycan Sequencing by MS<sup style="vertical-align:super">n</sup> Disassembly "</span>
 	<br>
-	<span style="padding-left:113px">Vernon Reinhold</span>
+	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:00 – 10:25</span>
+	<span style="font-style:italic">"Eliminating Ambiguity in Glycan Sequencing by</span> 
+	<br class="br-sp">
+	<span style="padding-left:113px">MS<sup style="vertical-align:super">n</sup> Disassembly"</span>
+	<br>
+	<span style="padding-left:113px" class="name">Vernon Reinhold</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:25 – 10:50</span>
-	<span style="font-style:italic">"Nutrient Regulation of Signaling &amp; Transcription by O-GlcNAcylation"</span>
+	<span style="font-style:italic">"Nutrient Regulation of Signaling &amp; Transcription</span>
+	<br class="br-sp">
+	<span style="padding-left:113px">by O-GlcNAcylation"</span>
 	<br>
-	<span style="padding-left:113px">Gerald Hart</span>
+	<span style="padding-left:113px" class="name">Gerald Hart</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:50 – 11:15</span>
 	<span style="font-style:italic">"HIV glycosylation"</span>
 	<br>
-	<span style="padding-left:113px">James Paulson</span>
+	<span style="padding-left:113px" class="name">James Paulson</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:15 – 11:25</span>
 	<span>Lightning Talk 1</span>
@@ -68,25 +73,30 @@ Hokkaido University<br>
 	<span>Coffee Break</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:40 – 12:05</span>
-	<span style="font-style:italic">"Total cellular glycome analysis: Method development and 
+	<span style="font-style:italic">"Total cellular glycome analysis: Method</span> 
+	<br class="br-sp">
+	<span style="padding-left:113px" class="abstractTitle">development and its application to biological</span> 
+	<br clss="br-sp">
+	<span style="padding-left:113px" class="abstractTitle">samples"</span>
+	
 	<br>
-	<span style="padding-left:113px">its application to biological samples"</span>
-	</span>
-	<br>
-	<span style="padding-left:113px">Jun-ichi Furukawa</span>
+	<span style="padding-left:113px" class="name">Jun-ichi Furukawa</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">12:05 – 12:30</span>
-	<span style="font-style:italic">"Distribution of IgG galactosylation as a promising
+	<span style="font-style:italic">"Distribution of IgG galactosylation as a promising	</span>
+	<br class="br-sp">
+	<span style="padding-left:113px" class="abstractTitle">biomarker for cancer screening"</span>
+
 	<br>
-	<span style="padding-left:113px">biomarker for cancer screening"</span>
-	</span>
-	<br>
-	<span style="padding-left:113px">Shifang Ren</span>
+	<span style="padding-left:113px" class="name">Shifang Ren</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">12:30 – 12:55</span>
-	<span style="font-style:italic">"Multilectin assay for glycobiomarker development"</span>
+	<span style="font-style:italic">"Multilectin assay for glycobiomarker</span>
+	<br class="br-sp">	
+	<span style="padding-left:113px" class="abstractTitle">development"</span>
+	
 	<br>
-	<span style="padding-left:113px">Atsushi Kuno</span>
+	<span style="padding-left:113px" class="name">Atsushi Kuno</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">12:55 – 14:00</span>
 	<span>Lunch</span>
@@ -101,37 +111,49 @@ Hokkaido University<br>
 	<span>Chair: Kshitij Khatri, Nicolle Packer</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:00 – 16:25</span>
-	<span style="font-style:italic">"Rapid throughput glycomic in analysis of human milk glycoconjugates"</span>
+	<span style="font-style:italic">"Rapid throughput glycomic in analysis of human</span>
+	<br class="br-sp">
+	<span style="padding-left:113px" class="abstractTitle">milk glycoconjugates"</span>
+
 	<br>
-	<span style="padding-left:113px">Carlito Lebrilla</span>
+	<span style="padding-left:113px" class="name">Carlito Lebrilla</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:25 – 16:50</span>
-	<span style="font-style:italic">"The necessity of focused clarity amidst the glycomic ambiguity"</span>
+	<span style="font-style:italic">"The necessity of focused clarity amidst the</span> 
+	<br class="br-sp">
+	<span style="padding-left:113px" class="abstractTitle">glycomic ambiguity"</span>
+	
 	<br>
-	<span style="padding-left:113px">Kay-Hooi Khoo</span>
+	<span style="padding-left:113px" class="name">Kay-Hooi Khoo</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:50 – 17:15</span>
-	<span style="font-style:italic">"Leveraging pluripotency to define cell-specific features within <br>
-	<span style="padding-left:113px">multidimensional glycomic analyses"</span>
-	</span>
+	<span style="font-style:italic">"Leveraging pluripotency to define cell-specific</span> 
+	<br class="br-sp">
+	<span style="padding-left:113px" class="abstractTitle">features within multidimensional glycomic</span> 
+	<br class="br-sp">
+	<span style="padding-left:113px" class="abstractTitle">analyses"</span>
+	
 	<br>
-	<span style="padding-left:113px">Michael Tiemeyer</span>
+	<span style="padding-left:113px" class="name">Michael Tiemeyer</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">17:15 - 17:30</span>
 	<span>Coffee Break</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">17:30 – 17:55</span>
-	<span style="font-style:italic">"Reverse glycomics: from glycan structure to gene function"</span>
+	<span style="font-style:italic">"Reverse glycomics: from glycan structure to</span>
+	<br class="br-sp">
+	<span style="padding-left:113px" class="abstractTitle">gene function"</span>
+	
 	<br>
-	<span style="padding-left:113px">Nicolle Packer</span>
+	<span style="padding-left:113px" class="name">Nicolle Packer</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">17:55 – 18:20</span>
-	<span style="font-style:italic">"Streamlining the O-glycomic LC-MS workflow for clinical and 
+	<span style="font-style:italic">"Streamlining the O-glycomic LC-MS workflow for</span>
+	<br class="br-sp">
+	<span style="padding-left:113px" class="abstractTitle">clinical and biomedical applications"</span>
+
 	<br>
-	<span style="padding-left:113px">biomedical applications"</span>
-	</span>
-	<br>
-	<span style="padding-left:113px">Niclas Karlsson</span>
+	<span style="padding-left:113px" class="name">Niclas Karlsson</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">18:20 – 18:30</span>
 	<span>Lightning Talk 2</span>
@@ -151,33 +173,38 @@ Hokkaido University<br>
 	<span>Chair: Michael Tiemeyer, Kay-Hooi Khoo</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:00 – 09:25</span>	
-	<span style="font-style:italic">"A split-apply-combine approach towards deconvolving the
+	<span style="font-style:italic">"A split-apply-combine approach towards</span> 	
+	<br class="br-sp">
+	<span style="padding-left:113px" class="abstractTitle">deconvolving the glycoproteome"</span>
+	
 	<br>
-	<span style="padding-left:113px">glycoproteome"</span>
-	</span>
-	<br>
-	<span style="padding-left:113px">Kshitij Khatri</span>
+	<span style="padding-left:113px" class="name">Kshitij Khatri</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:25 – 09:50</span>
-	<span style="font-style:italic">"xCGE-LIF: A powerful Tool in the Glycoanalytical Toolbox"</span>
+	<span style="font-style:italic">"xCGE-LIF: A powerful Tool in the Glycoanalytical</span> 
+	<br class="br-sp">
+	<span style="padding-left:113px" class="abstractTitle">Toolbox"</span>
+	
 	<br>
-	<span style="padding-left:113px">Erdmann Rapp</span>
+	<span style="padding-left:113px" class="name">Erdmann Rapp</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:50 – 10:15</span>
-	<span style="font-style:italic">"Glycoproteomic studies of Viral, Bacterial and Parasitic
+	<span style="font-style:italic">"Glycoproteomic studies of Viral, Bacterial and</span>
+	<br class="br-sp">
+	<span style="padding-left:113px" class="abstractTitle">Parasitic glycosylation"</span>
+	
 	<br>
-	<span style="padding-left:113px">glycosylation"</span>
-	<br>
-	</span>
-	<span style="padding-left:113px">Simon North</span>
+	<span style="padding-left:113px" class="name">Simon North</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:15 – 10:40</span>
-	<span style="font-style:italic">"Accurate mass-based large-scale analysis of glycosylation 
-	<br> 
-	<span style="padding-left:113px">site-specific glycan heterogeneity of complex protein mixture"</span>
-	</span>
+	<span style="font-style:italic">"Accurate mass-based large-scale analysis of</span>
+	<br class="br-sp"> 
+    <span style="padding-left:113px" class="abstractTitle">glycosylation site-specific glycan</span> 
+    <br class="br-sp">	
+    <span style="padding-left:113px" class="abstractTitle">heterogeneity of complex protein mixture"</span>
+	
 	<br>
-	<span style="padding-left:113px">Hiroyuki Kaji</span>
+	<span style="padding-left:113px" classs="name">Hiroyuki Kaji</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:40 - 10:50</span>
 	<span>Lightning Talk 3</span>
@@ -186,27 +213,30 @@ Hokkaido University<br>
 	<span>Coffee Break</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:05 – 11:30</span>
-	<span style="font-style:italic">"Designer arrays for the pinpointing, isolation and structural
+	<span style="font-style:italic">"Designer arrays for the pinpointing, isolation and</span>
+	<br class="br-sp">
+	<span style="padding-left:113px" class="abstractTitle">structural assignments of natural glycan ligands</span> 
+	<br class="br-sp">	
+	<span style="padding-left:113px" class="abstractTitle">of biological and medical importance"</span>
+	
 	<br>
-	<span style="padding-left:113px">assignments of natural glycan ligands of biological and medical</span> 
-	<br>
-	<span style="padding-left:113px">importance"</span>
-	</span>
-	<br>
-	<span style="padding-left:113px">Ten Feizi</span>
+	<span style="padding-left:113px" class="name">Ten Feizi</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:30 – 11:55</span>
-	<span style="font-style:italic">"Predicting N-glycan processing based on enzyme-glycan accessibility"</span>
+	<span style="font-style:italic">"Predicting N-glycan processing based on</span >
+	<br class="br-sp">	
+	<span style="padding-left:113px" class="abstractTitle">enzyme-glycan accessibility"</span>
+	
 	<br>
-	<span style="padding-left:113px">Robert Woods</span>
+	<span style="padding-left:113px" class="name">Robert Woods</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:55 – 12:20</span>
-	<span style="font-style:italic">"Understanding glycan dynamics and interaction by NMR and
+	<span style="font-style:italic">"Understanding glycan dynamics and interaction</span> 
+	<br class="br-sp">
+	<span style="padding-left:113px" class="abstractTitle">by NMR and X-ray crystallography"</span>	
+	
 	<br>
-	<span style="padding-left:113px">X-ray crystallography"</span>
-	</span>
-	<br>
-	<span style="padding-left:113px">Yoshiki Yamaguchi</span>
+	<span style="padding-left:113px" class="name">Yoshiki Yamaguchi</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">12:20 – 12:30</span>
 	<span>Lightning Talk 4</span>
@@ -223,19 +253,25 @@ Hokkaido University<br>
 	<span>Chair: Robert Woods, Yoshiki Yamaguchi</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">13:30 – 13:55</span>
-	<span style="font-style:italic">"Glycologue: a new modeling framework for O-linked glycosylation"</span>
+	<span style="font-style:italic">"Glycologue: a new modeling framework for</span>
+	<br class="br-sp">
+	<span style="padding-left:113px" class="abstractTitle">O-linked glycosylation"</span>
+
 	<br>
-	<span style="padding-left:113px">Gavin Davey</span>
+	<span style="padding-left:113px" class="name">Gavin Davey</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">13:55 – 14:20</span>
-	<span style="font-style:italic">"Introducing IgCarbKB, a human immunoglobulin glyco-atlas"</span>
+	<span style="font-style:italic">"Introducing IgCarbKB, a human immunoglobulin</span>
+	<br class="br-sp">
+	<span style="padding-left:113px" class="abstractTitle">glyco-atlas"</span>
+	
 	<br>
-	<span style="padding-left:113px">Matthew Campbell</span>
+	<span style="padding-left:113px" class="name">Matthew Campbell</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">14:20 – 14:45</span>
 	<span style="font-style:italic">"Glycomics@ExPASy: Bridging the gap"</span>
 	<br>
-	<span style="padding-left:113px">Frederique Lisacek</span>
+	<span style="padding-left:113px" class="name">Frederique Lisacek</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">14:45 – 14:55</span>
 	<span>Lightning Talk 5</span>
@@ -244,17 +280,22 @@ Hokkaido University<br>
 	<span>Coffee Break</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">15:10 – 15:35</span>
-	<span style="font-style:italic">"Semantic Web Technologies for Integrating Glycan-related Databases"</span>
+	<span style="font-style:italic">"Semantic Web Technologies for Integrating</span> 
+	<br class="br-sp">	
+	<span style="padding-left:113px" class="abstractTitle">Glycan-related Databases"</span>
+	
 	<br>
-	<span style="padding-left:113px">Kiyoko F. Aoki-Kinoshita</span>
+	<span style="padding-left:113px" class="name">Kiyoko F. Aoki-Kinoshita</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">15:35 – 16:00</span>
-	<span style="font-style:italic">"GRITS Toolbox – An extendible software platform for the processing
+	<span style="font-style:italic">"GRITS Toolbox – An extendible software</span>
+	<br class="br-sp">
+	<span style="padding-left:113px" class="abstractTitle">platform for the processing and archiving</span>
+	<br class="br-sp">
+	<span style="padding-left:113px" class="abstractTitle">of glycomics data"</span>
+	
 	<br>
-	<span style="padding-left:113px">and archiving of glycomics data"</span>
-	</span>
-	<br>
-	<span style="padding-left:113px">Rene Ranzinger</span>
+	<span style="padding-left:113px" class="name">Rene Ranzinger</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:00 – 16:10</span>
 	<span>Lightning Talk 6</span>
@@ -264,10 +305,13 @@ Hokkaido University<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:10 – 16:25</span>
 	<span style="font-style:italic">"MIRAGE Working Group Report"</span>
 	<br>
-	<span style="padding-left:113px">Carsten Kettner</span>
+	<span style="padding-left:113px" class="name">Carsten Kettner</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">16:30 – 18:30</span>
-	<span>Poster (Even numbers) and Bioinformatics Hands-on Session</span>
+	<span>Poster (Even numbers) and Bioinformatics</span>
+	<br class="br-sp">
+	<span style="padding-left:113px" class="abstractTitle">Hands-on Session</span>
+	
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">Sapporo Beer Garden on your own.<br>
 	Please email organizers if you plan on going by <strong>July 15</strong> as space is limited and reservations are required.
@@ -286,48 +330,56 @@ Hokkaido University<br>
 	<span>Chair: James Paulson, Tadashi Suzuki</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:30 – 09:55</span>
-	<span style="font-style:italic">"Shaping Glycans by DNA Scissors and Turning Glycosciences Into
-	<br> 
-	<span style="padding-left:113px"> Lego Toying"</span>
-	</span>
+	<span style="font-style:italic">"Shaping Glycans by DNA Scissors and Turning
+	<br class="br-sp"></span>	
+	<span style="padding-left:113px" class="abstractTitle">Glycosciences Into Lego Toying"</span>
+	
 	<br>
-	<span style="padding-left:113px">Henrik Clausen</span>
+	<span style="padding-left:113px" class="name">Henrik Clausen</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:55 – 10:20</span>
-	<span style="font-style:italic">"Whether the tumor suppressor p53 has a novel glycosyl-modification"</span>
+	<span style="font-style:italic">"Whether the tumor suppressor p53 has a novel</span>
+	<br class="br-sp">	
+	<span style="padding-left:113px" class="abstractTitle"> glycosyl-modification"</span>
+	
 	<br>
-	<span style="padding-left:113px">Yan Zhang</span>
+	<span style="padding-left:113px" class="name">Yan Zhang</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:20 – 10:45</span>
-	<span style="font-style:italic">"Roles of N-glycan in epithelial-mesenchymal transition (EMT) and
+	<span style="font-style:italic">"Roles of N-glycan in epithelial-mesenchymal</span>
+	<br class="br-sp">
+	<span style="padding-left:113px" class="abstractTitle"> transition (EMT) and cellular signaling"</span>
+	
 	<br>
-	<span style="padding-left:113px">cellular signaling"</span>
-	</span>
-	<br>
-	<span style="padding-left:113px">Jianguo Gu</span>
+	<span style="padding-left:113px" class="name">Jianguo Gu</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">10:45 – 11:00</span>
 	<span>Coffee Break</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:00 – 11:25</span>
-	<span style="font-style:italic">"Identification of a post-translational modification with ribitol-phosphate
-	<br> 
-	<span style="padding-left:113px">and its defect in muscular dystrophy"</span>
-	</span>
+	<span style="font-style:italic">"Identification of a post-translational modification</span>
+	<br class="br-sp">
+	<span style="padding-left:113px" class="abstractTitle">with ribitol-phosphate and its defect in muscular</span>
+	<br class="br-sp">
+	<span style="padding-left:113px" class="abstractTitle">dystrophy"</span>
+	
 	<br>
-	<span style="padding-left:113px">Tatsushi Toda</span>
+	<span style="padding-left:113px" class="name">Tatsushi Toda</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:25 – 11:50</span>
-	<span style="font-style:italic">"Can basic science contribute to cure a human genetic disorder?"</span>
+	<span style="font-style:italic">"Can basic science contribute to cure a human</span>
+	<br class="br-sp">
+	<span style="padding-left:113px" class="abstractTitle">genetic disorder?"</span>
+
 	<br>
-	<span style="padding-left:113px">Tadashi Suzuki</span>
+	<span style="padding-left:113px" class="name">Tadashi Suzuki</span>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">11:50 – 13:00</span>
 	<span>Lunch</span>
 </p>
 
 <p>
-	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px"><strong>Discussion</strong></span>
+	<strong>Discussion</strong>
 	<br>
 	<span>Chair: Kiyoko F. Aoki-Kinoshita</span>
 	<br>
