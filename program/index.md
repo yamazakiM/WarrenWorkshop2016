@@ -35,6 +35,7 @@ Hokkaido University<br>
 	<span style="font-style:italic">History of the Warren Workshop</span>
 	<br>
 	<span style="padding-left:113px">Vernon Reinhold</span>
+	<a href="{{site.url}}/images/CharlesE.Warren.pdf" class="button_downloadFile"><input id="button_downloadFile" class="button_downloadFile" type="button" alt="downloadFile" value="Download File"></a>
 	<br>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:50 – 10:00</span>
 	<span style="font-style:italic">Introduction to the Aims of the Meeting</span>
