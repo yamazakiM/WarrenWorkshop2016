@@ -17,7 +17,10 @@ Hokkaido University<br>
 <a href="https://goo.gl/maps/JtP1MdrwH5U2">Kita 13, Nishi 8, Kita-ku, Sapporo, Hokkaido 060-8628, Japan</a>
 </p>
 <br>
-
+<p>
+    <h3> Posters and Hands-On Presentations </h3>
+  <a href="program/posters">Posters and Hands-on Presenters List</a>
+<p>
 <h3>Wednesday August 24, 2016</h3>
 <p>
 	<span style="display:inline-block; width=130px; margin-top:10px; margin-right:15px">09:00 – 09:30</span>
