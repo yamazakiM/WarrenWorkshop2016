@@ -19,7 +19,7 @@ Hokkaido University<br>
 <br>
 <p>
     <h3> Posters and Hands-On Presentations </h3>
-  <a href="program/posters">Posters and Hands-on Presenters List</a>
+  <a href="posters">Posters and Hands-on Presenters List</a>
 <p>
 <h3>Wednesday August 24, 2016</h3>
 <p>
